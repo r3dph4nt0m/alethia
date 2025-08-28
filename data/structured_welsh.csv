@@ -2,6 +2,7 @@ dialogue,classification,translation
 Mae e'n byw yng Nghaerdydd.,welsh,He lives in Cardiff.
 Dw i ddim yn hoffi coffi.,welsh,I don't like coffee.
 Es i i'r siop.,welsh,I went to the shop.
+Dw i'n dod o Loegr.,welsh,I come from England.
 Dw i'n dod o Loegr.,welsh,I'm from England.
 Dw i'n dy garu di.,welsh,I love you.
 Mae'r car yn las.,welsh,The car is blue.
@@ -10,185 +11,214 @@ Dw i'n hoffi ieithoedd.,welsh,I like languages.
 Dw i'n gwybod.,welsh,I know.
 Ond fe gysgodd fel baban.,welsh,But he slept like a baby.
 Dyma eich allwedd.,welsh,Here is your key.
-Mae annwyd arnaf i.,welsh,I am bored.
+Mae annwyd arnaf i.,welsh,I've got a cold.
 Wyt ti'n hoffi te?,welsh,Do you like tea?
 Beth sydd fel arfer yn achosi'r boen?,welsh,What usually causes the pain?
-"Pwnc heddiw ydyw ""y broblem o bobol Siapanaidd sydd wedi cael eu herwgipio gan Ngogledd Corea"".",welsh,"Today's topic is ""the problem of Japanese people who have been kidnapped by North Korea""."
+"Pwnc heddiw ydyw ""y broblem o bobol Siapanaidd sydd wedi cael eu herwgipio gan Ngogledd Corea"".",welsh,"Today's topic is ""the problem of Japanese people abducted by North Korea""."
 Cafodd hi ei geni yn America.,welsh,She was born in America.
-Mae e'n dod o Gymru.,welsh,He is from Wales.
+Mae e'n dod o Gymru.,welsh,He comes from Wales.
 Mae e'n gwybod ble dyn ni'n byw.,welsh,He knows where we live.
 Pwy ydw i?,welsh,Who am I?
 Esgusodwch fi. Ydych chi'n siarad Saesneg?,welsh,Excuse me. Do you speak English?
 Faint yw hwn?,welsh,How much is this?
+Ble mae'r toiled?,welsh,Where's the restroom?
 Ble mae'r toiled?,welsh,Where is the toilet?
-Penblwydd Hapus!,welsh,Happy Birthday!
+Ble mae'r toiled?,welsh,Where's the toilet?
+Ble mae'r toiled?,welsh,Where's the loo?
+Penblwydd Hapus!,welsh,Happy birthday!
 Mae fy hofrenfad yn llawn llyswennod.,welsh,My hovercraft is full of eels.
 Tom ydy fy ffrind gorau.,welsh,Tom is my best friend.
 Mae llygaid du 'da fi.,welsh,I have black eyes.
 Wyt ti'n byw yn Nhokyo?,welsh,Do you live in Tokyo?
 Dych chi'n byw yn Nhokyo?,welsh,Do you live in Tokyo?
 Mae cath wen 'da fi.,welsh,I have a white cat.
-Mae Tom yn chwyrnu.,welsh,Tom snores.
+Mae Tom yn chwyrnu.,welsh,Tom is snoring.
 Dw i'n hoffi cŵn.,welsh,I like dogs.
 Dyn ni ym Mharis.,welsh,We are in Paris.
+Gaf i eistedd yma?,welsh,May I sit here?
 Gaf i eistedd yma?,welsh,Can I sit here?
 Dw i'n hoffi tennis.,welsh,I like tennis.
-Atgyfododd Crist!,welsh,Christ has risen!
+Atgyfododd Crist!,welsh,Christ is risen!
 Sut wyt ti?,welsh,How are you?
 Sut dych chi?,welsh,How are you?
-Dw i'n dod o'r Eidal a dw i'n siarad Eidaleg.,welsh,I'm from Italy and I speak Italian.
-Dw i'n dod o Awstralia.,welsh,I'm from Australia.
-Dw i'n dod o Frasil.,welsh,I'm from Brazil.
-Dw i'n dod o Siapan.,welsh,I'm from Japan.
+Dw i'n dod o'r Eidal a dw i'n siarad Eidaleg.,welsh,I come from Italy and I speak Italian.
+Dw i'n dod o Awstralia.,welsh,I come from Australia.
+Dw i'n dod o Frasil.,welsh,I come from Brazil.
+Dw i'n dod o Siapan.,welsh,I come from Japan.
 "Does dim arian 'da fi, ond breuddwydion 'da fi.",welsh,"I have no money, but I have dreams."
-Diolch.,welsh,Thank you.
+Diolch.,welsh,Thank you!
+Diolch.,welsh,Thanks!
+Diolch.,welsh,Thanks.
+Mae hi'n bwrw glaw.,welsh,It is raining.
 Mae hi'n bwrw glaw.,welsh,It's raining.
-Mae hi'n bwrw cesair.,welsh,It's snowing.
+Mae hi'n bwrw cesair.,welsh,It's hailing.
 Iaith hardd yw'r Gymraeg.,welsh,Welsh is a beautiful language.
-Dw i wedi ennill y gêm.,welsh,I've won the game.
+Dw i wedi ennill y gêm.,welsh,I have won the game.
+Dw i ddim yn teimlo'n dda.,welsh,I don't feel well.
 Dw i ddim yn teimlo'n dda.,welsh,I'm not feeling well.
-Dw i'n hen.,welsh,I'm old.
+Dw i'n hen.,welsh,I am old.
 Dw i'n caru Tatoeba.,welsh,I love Tatoeba.
 Dw i eisiau cysgu.,welsh,I want to sleep.
-Mae Tom yn dal.,welsh,Tom is still.
-Mae Tom yn benfoel.,welsh,Tom is a genius.
+Mae Tom yn dal.,welsh,Tom is tall.
+Mae Tom yn benfoel.,welsh,Tom is bald.
+Bore da.,welsh,Good morning!
 Ddaeth Tom?,welsh,Did Tom come?
 Dw i'n gallu deall dy iaith di.,welsh,I can understand your language.
 Pasg Hapus!,welsh,Happy Easter!
 Mae ci 'da fe.,welsh,He has a dog.
-Mae e'n ei helpu hi.,welsh,He is helping her.
+Mae e'n ei helpu hi.,welsh,He helps her.
 Mae car 'da fe.,welsh,He has a car.
 Arwr yw e.,welsh,He is a hero.
 Bardd yw e.,welsh,He is a poet.
 Carodd e hi.,welsh,He loved her.
 Mae e'n ei charu hi.,welsh,He loves her.
-Dw i'n gweithio.,welsh,I'm working.
-Dw i'n teimlo'n hapus.,welsh,I'm feeling happy.
+Dw i'n gweithio.,welsh,I am working.
+Dw i'n teimlo'n hapus.,welsh,I feel happy.
 Mae llygad ddu 'da fi.,welsh,I have a black eye.
-Doedd bron ddim arian ar ôl.,welsh,There was hardly any money left.
+Doedd bron ddim arian ar ôl.,welsh,There was scarcely any money left.
 Dydy o ddim yn gallu cyfri.,welsh,He can't count.
-Doedd ddim digon o aur gyda nhw.,welsh,They didn't have enough gold.
-Panda wyt ti.,welsh,You're a panda.
+Doedd ddim digon o aur gyda nhw.,welsh,They did not have enough gold.
+Panda wyt ti.,welsh,You are a panda.
 Mae fy marn i yn debyg i dy farn di.,welsh,My opinion is similar to yours.
-Mathemateg ydy ein gwers cyntaf ni.,welsh,Mathematics is our first lesson.
-Mae hi'n bwyta ei chinio yn yr adref.,welsh,She eats her lunch at home.
-Peidiwch â thaflu sbwriel fan yma.,welsh,Don't throw rubbish here.
-Peidiwch â chymryd ei hochr ef bob amser.,welsh,Don't always take his side.
+Mathemateg ydy ein gwers cyntaf ni.,welsh,Our first lesson is math.
+Mae hi'n bwyta ei chinio yn yr adref.,welsh,She has lunch at home.
+Peidiwch â thaflu sbwriel fan yma.,welsh,Don't throw garbage away here.
+Peidiwch â chymryd ei hochr ef bob amser.,welsh,Don't always take sides with him.
 Mae Tom yn wallgof dros Mary.,welsh,Tom is crazy about Mary.
 Ble mae'r problem?,welsh,Where is the problem?
-"Yn sicr, mae'n mynd i bwrw glaw.",welsh,"Certainly, it's going to rain."
-Aeth Alice i'r gwely am ddeg o'r gloch.,welsh,Alice went to bed at ten o'clock.
+"Yn sicr, mae'n mynd i bwrw glaw.",welsh,"It's going to rain, for sure."
+Aeth Alice i'r gwely am ddeg o'r gloch.,welsh,Alice went to bed at ten.
 Esgusodwch fi.,welsh,Excuse me.
-Dros fy nghrogi!,welsh,Over my head!
+Dros fy nghrogi!,welsh,Over my dead body!
 Rwyt ti'n fy neall i.,welsh,You understand me.
 Dych chi'n fy neall i.,welsh,You understand me.
-Nid yw un iaith byth yn ddigon.,welsh,No language is ever enough.
+Nid yw un iaith byth yn ddigon.,welsh,One language is never enough.
 Dw i methu aros yma heno.,welsh,I can't stay here tonight.
-Gofynodd y dewin am wirfoddolwr o'r gynulleidfa.,welsh,The wizard asked for a volunteer from the audience.
+Gofynodd y dewin am wirfoddolwr o'r gynulleidfa.,welsh,The magician asked for a volunteer from the audience.
 Wyt ti'n hoffi golff?,welsh,Do you like golf?
 Dydi hi ddim yn dda i orfwyta.,welsh,It's not good to overeat.
-Mae Tom yn casáu pawb.,welsh,Tom hates everyone.
-Mae hi'n braf iawn heddiw.,welsh,It's very nice today.
-Pa bryd wnawn ni ail-baentio ei hystafell hi?,welsh,When shall we repaint her room?
+Mae Tom yn casáu pawb.,welsh,Tom hates everybody.
+Mae hi'n braf iawn heddiw.,welsh,It is very fine today.
+Pa bryd wnawn ni ail-baentio ei hystafell hi?,welsh,When will we repaint her room?
 Doeddwn i ddim yn barod.,welsh,I wasn't ready.
-"Beth yw enw dy wraig? ""Dydw i ddim yn briod.""",welsh,"What is your wife's name? ""I'm not married."""
-Cuddiodd y llwynog yn y goeden wag.,welsh,The fox hid in the empty tree.
+"Beth yw enw dy wraig? ""Dydw i ddim yn briod.""",welsh,"What's your wife's name? ""I'm not married."""
+Cuddiodd y llwynog yn y goeden wag.,welsh,The fox hid in the hollow tree.
 Mae ganddo fab a dwy ferch.,welsh,He has a son and two daughters.
 Mae'r ferch yn hoffi ceffylau.,welsh,The girl likes horses.
 Mae Tocio yn ddinas enfawr.,welsh,Tokyo is a huge city.
-Rwyt ti'n ddyn.,welsh,You are
-Rwyt ti'n ddynes.,welsh,You are a
-Mae o'n hunanol iawn.,welsh,He is very selfish.
+Rwyt ti'n ddynes.,welsh,You are a woman.
+Mae o'n hunanol iawn.,welsh,He's really selfish.
 Dw i'n casáu'r byd oherwydd bod y byd yn fy nghasáu innau.,welsh,I hate the world because the world hates me.
 Mae Tom wedi bod yn tyfu barf trwy'r haf.,welsh,Tom has been growing a beard all summer.
 Roeddwn i'n ddyn cyfoethog.,welsh,I was a rich man.
 Prynais tair potel o win.,welsh,I bought three bottles of wine.
 Wyt ti erioed wedi bwyta cig morfil?,welsh,Have you ever eaten whale meat?
 Mi glywais i'r dail yn siffrwd.,welsh,I heard the leaves rustling.
-Mae gan y ddwy ferch llygaid gleision.,welsh,Both girls have green eyes.
+Mae gan y ddwy ferch llygaid gleision.,welsh,Both girls have blue eyes.
 Mae Tatoeba yn wefan gyfieithu.,welsh,Tatoeba is a translation website.
-Cafodd ei fagu gan ei daid a'i nain.,welsh,He was raised by his grandfather and grandmother.
+Cafodd ei fagu gan ei daid a'i nain.,welsh,He was raised by his grandparents.
 Creda Tom mewn tylwyth teg.,welsh,Tom believes in fairies.
 Gwna beth sy'n iawn.,welsh,Do what is right.
-Ble mae'r safle bws?,welsh,Where is the bus stop?
-Tybed beth ddigwyddodd iddo?,welsh,Wonder what happened to him?
-Dydw i ddim eisiau brechdanau.,welsh,I don't want sandwiches.
+Ble mae'r safle bws?,welsh,Where's the bus stop?
+Tybed beth ddigwyddodd iddo?,welsh,I wonder what happened to him.
+Dydw i ddim eisiau brechdanau.,welsh,I do not want any sandwiches.
 Dydy Tom ddim yn deall Ffrangeg.,welsh,Tom doesn't understand French.
-Teimlas yn unig hebddi.,welsh,Feels lonely without her.
+Teimlas yn unig hebddi.,welsh,I felt lonely without her.
 Mae'r ci hwn yn rhedeg yn gyflym.,welsh,This dog runs fast.
 Dw i angen nodiadur er mwyn ysgrifennu fy nodiadau.,welsh,I need a notebook to write my notes.
 Paid â darllen fy nyddiadur.,welsh,Don't read my diary.
-Peidiwch â darllen fy nyddiadur.,welsh,Please don't read my diary.
-Dydw i ddim yn gwybod ei rhif ffôn hi.,welsh,I don't know her phone number.
-"Er ei bod hi'n bwrw glaw, mi es i allan.",welsh,"Even though it was raining, I went outside."
+Peidiwch â darllen fy nyddiadur.,welsh,Don't read my diary.
+Dydw i ddim yn gwybod ei rhif ffôn hi.,welsh,I don't know her telephone number.
+"Er ei bod hi'n bwrw glaw, mi es i allan.",welsh,"Although it was raining, I went out."
+"Er ei bod hi'n bwrw glaw, mi es i allan.",welsh,"Even though it was raining, I went out."
 Mae gen i ddau frawd ac un chwaer.,welsh,I have two brothers and one sister.
 Mi es i i'r parc gyda Mary ddoe.,welsh,I went to the park with Mary yesterday.
 Mae o'n byw yn ei gar.,welsh,He lives in his car.
+Rwyt ti'n berffaith normal.,welsh,You're perfectly normal.
 Rwyt ti'n berffaith normal.,welsh,You are perfectly normal.
 Dw i'n berffeithydd.,welsh,I'm a perfectionist.
 Rwy'n berffeithydd.,welsh,I'm a perfectionist.
 Mae fy mrawd yn cyrraedd bore 'fory.,welsh,My brother is arriving tomorrow morning.
+Mae fy mrawd yn cyrraedd bore 'fory.,welsh,My brother arrives tomorrow morning.
 Dw i ddim yn hoffi dyddiau gwyntog.,welsh,I don't like windy days.
 Mae hi'n saith o'r gloch.,welsh,It's seven o'clock.
-Roedd y tywysog ar goll yn y goedwig.,welsh,The prince was lost in the forest.
-Mae'n stori amwys.,welsh,It's an ambiguous story.
+Mae hi'n saith o'r gloch.,welsh,It is seven o'clock.
+Roedd y tywysog ar goll yn y goedwig.,welsh,The prince was lost in the woods.
+Mae'n stori amwys.,welsh,It's a vague story.
 Mae o'n casáu Nancy.,welsh,He hates Nancy.
+Mae'n rhaid i mi fynd rŵan.,welsh,I must go now.
 Mae'n rhaid i mi fynd rŵan.,welsh,I have to go now.
+Mae o newydd gyrraedd.,welsh,He just arrived.
 Mae o newydd gyrraedd.,welsh,He has just arrived.
 Mae'r trên yn gyflym iawn.,welsh,The train is very fast.
 Oes gen ti unrhyw lyfrau am Armenia?,welsh,Do you have any books about Armenia?
 Oes gennych chi unrhyw lyfrau am Armenia?,welsh,Do you have any books about Armenia?
-Byth eto.,welsh,Not yet.
-Tybed beth ddigwyddodd?,welsh,I wonder what happened?
+Byth eto.,welsh,Never again.
+Tybed beth ddigwyddodd?,welsh,I wonder what happened.
 Mae yna ddwy gath yn cysgu ar y gwely.,welsh,There are two cats sleeping on the bed.
-Mae hanner yr afalau hyn wedi pydru.,welsh,Half of these apples have rotted.
+Mae yna ddwy gath yn cysgu ar y gwely.,welsh,There are two female cats sleeping on the bed.
+Mae hanner yr afalau hyn wedi pydru.,welsh,Half of these apples are rotten.
 Wyt ti wir eisiau aros am Tom?,welsh,Do you really want to wait for Tom?
 Dw i'n hoffi darllen.,welsh,I like reading.
-Cyflwyna dy waith cartref ar ddydd Llun.,welsh,Present your homework on Monday.
-Cyflwynwch eich gwaith cartref ar ddydd Llun.,welsh,Please submit your homework on Monday.
-"Mae yna ddau sero yn y rhif ""2010"".",welsh,"There are two zeros in the number ""2010""."
-Roedd hi'n niwlog iawn.,welsh,It was very foggy.
+Cyflwyna dy waith cartref ar ddydd Llun.,welsh,Submit your homework on Monday.
+Cyflwynwch eich gwaith cartref ar ddydd Llun.,welsh,Submit your homework on Monday.
+"Mae yna ddau sero yn y rhif ""2010"".",welsh,"There are two zeros in the number ""2010."""
+"Mae yna ddau sero yn y rhif ""2010"".",welsh,"There are two zeroes in ""2010""."
+Roedd hi'n niwlog iawn.,welsh,It was very misty.
 Athrawes ydy hi.,welsh,She is a teacher.
 Mae hi'n athrawes.,welsh,She is a teacher.
 Rydym yn gwylio.,welsh,We are watching.
-Gwyliwn.,welsh,We will watch.
-Rhedodd yr arth ar fy ôl i.,welsh,The cat ran after me.
+Gwyliwn.,welsh,We are watching.
+Rhedodd yr arth ar fy ôl i.,welsh,The bear ran after me.
 Mae o'n dalach na'i frawd.,welsh,He is taller than his brother.
 Mae'r glaw yn fy nilyn i bob man!,welsh,The rain follows me everywhere!
 Beth wyt ti'n ei wneud dydd Sul nesa'?,welsh,What are you doing next Sunday?
 "Yn ôl Meic, mi brynodd Mac gar newydd.",welsh,"According to Mike, Mac bought a new car."
 Dw i'n gwerthfawrogi'r cyngor.,welsh,I appreciate the advice.
-"Mae'r Gymraeg, Cernyweg a'r Llydaweg oll yn perthyn yn agos i'w gilydd.",welsh,"Welsh, Cornish, and Breton are all closely related."
-Prynais gar yn Neri ddoe.,welsh,I bought a car in Neath yesterday.
+"Mae'r Gymraeg, Cernyweg a'r Llydaweg oll yn perthyn yn agos i'w gilydd.",welsh,"Welsh, Cornish and Breton are all closely related."
 Dw i'n dod adre.,welsh,I'm coming home.
 Myfyrwraig feddygol oedd hi.,welsh,She was a medical student.
 Roedd hi'n sefyll yng nghanol yr ystafell.,welsh,She was standing in the middle of the room.
-Mae Tom yn swrth iawn.,welsh,Tom is very rude.
-Dw i'n mynd i'r eglwys ar ddydd Sul.,welsh,I'm going to church on Sunday.
-Mae hi wedi bod yn ddiwrnod da.,welsh,She has had a good day.
-Dw i'n heneiddio.,welsh,I'm aging.
+Mae Tom yn swrth iawn.,welsh,Tom is very blunt.
+Dw i'n mynd i'r eglwys ar ddydd Sul.,welsh,"On Sunday, I go to church."
+Dw i'n mynd i'r eglwys ar ddydd Sul.,welsh,I go to church on Sunday.
+Mae hi wedi bod yn ddiwrnod da.,welsh,It's been a good day.
+Mae hi wedi bod yn ddiwrnod da.,welsh,It has been a good day.
+Dw i'n heneiddio.,welsh,I'm getting old.
+Mae'r trên yn ddeng munud yn hwyr heddiw.,welsh,The train is 10 minutes late today.
 Mae'r trên yn ddeng munud yn hwyr heddiw.,welsh,The train is ten minutes late today.
 Mae eu traed yn fudr.,welsh,Their feet are dirty.
-Mae'r cwmni eisiau cyflogi ugain o bobl.,welsh,The company wants to hire twenty people.
-Mae hi wedi bod yn bwrw glaw yn ddi-stop am dri diwrnod.,welsh,It has been raining non-stop for three days.
+Mae eu traed yn fudr.,welsh,His feet are dirty.
+Mae'r cwmni eisiau cyflogi ugain o bobl.,welsh,The company wants to hire 20 people.
+Mae'r cwmni eisiau cyflogi ugain o bobl.,welsh,The company want to employ twenty people.
+Mae hi wedi bod yn bwrw glaw yn ddi-stop am dri diwrnod.,welsh,It's been raining non-stop for three days.
+Mae hi wedi bod yn bwrw glaw yn ddi-stop am dri diwrnod.,welsh,It has been raining nonstop for three days.
 Wyt ti'n hoffi bwyd Japaneaidd?,welsh,Do you like Japanese food?
 Pa bryd wyt ti'n mynd?,welsh,When are you going?
+Pa bryd wyt ti'n mynd?,welsh,What time are you going?
 Roedd yr ardd yn llawn o flodau melyn.,welsh,The garden was full of yellow flowers.
 Mae aros adre yn ddiflas.,welsh,Staying at home is boring.
+Mae aros adre yn ddiflas.,welsh,Staying home is boring.
 Wyt ti'n adnabod Mr. Bingley?,welsh,Do you know Mr. Bingley?
 Ydych chi'n adnabod Mr. Bingley?,welsh,Do you know Mr. Bingley?
+Ydych chi'n adnabod Mr. Bingley?,welsh,Do you know Mr Bingley?
+Pam wnest ti gadael dy swydd?,welsh,Why did you quit your job?
 Pam wnest ti gadael dy swydd?,welsh,Why did you leave your job?
-"S'mae, fy enw i yw Pekka. Beth yw dy enw di?",welsh,"Hello, my name is Pekka. What is your name?"
-Dydw i ddim yn gwylio teledu.,welsh,I'm not watching TV.
+"S'mae, fy enw i yw Pekka. Beth yw dy enw di?",welsh,"Hi, my name is Pekka. What is your name?"
+"S'mae, fy enw i yw Pekka. Beth yw dy enw di?",welsh,"Hi, how are you? My name is Pekka. What is your name?"
+Dydw i ddim yn gwylio teledu.,welsh,I don't watch TV.
+Dydw i ddim yn gwylio teledu.,welsh,I don't watch television.
 Mae gan gath gynffon a phedair coes.,welsh,A cat has a tail and four legs.
+Mae gan gath gynffon a phedair coes.,welsh,Cats have a tail and four legs.
 Mae traean yn llai na hanner.,welsh,A third is less than a half.
-Ysgrifennodd Alexander frawddegau yn yr iaith Ferber.,welsh,Alexander wrote sentences in the Ferber language.
+Ysgrifennodd Alexander frawddegau yn yr iaith Ferber.,welsh,Alexander wrote some sentences in Berber.
+Ysgrifennodd Alexander frawddegau yn yr iaith Ferber.,welsh,Alexander wrote sentences in the Berber language.
 Arabeg yw fy mamiaith.,welsh,Arabic is my mother tongue.
 A oes yna unrhyw draethau yn yr Almaen?,welsh,Are there any beaches in Germany?
-A oes yna ddaeargrynfeydd yn yr Almaen?,welsh,Are there any earthquakes in Germany?
-A oes yna orlifoedd yn yr Almaen?,welsh,Are there any floods in Germany?
-A oes yna sgorpionau yn yr Almaen?,welsh,Are there any scorpions in Germany?
-Wyt ti am dalu amdano?,welsh,Do you want to pay for it?
+A oes yna ddaeargrynfeydd yn yr Almaen?,welsh,Are there earthquakes in Germany?
+A oes yna orlifoedd yn yr Almaen?,welsh,Are there floods in Germany?
+A oes yna sgorpionau yn yr Almaen?,welsh,Are there scorpions in Germany?
+Wyt ti am dalu amdano?,welsh,Are you gonna pay for it?
 Mae Barack Obama yn Gristion.,welsh,Barack Obama is a Christian.
 Mae marwolaeth yn barhaol.,welsh,Death is permanent.
 Wyt ti erioed wedi plannu coeden?,welsh,Have you ever planted a tree?
@@ -196,106 +226,1540 @@ Welaist ti ei hwyneb hi?,welsh,Did you see her face?
 Welaist ti ei wyneb o?,welsh,Did you see his face?
 Welaist ti eu wynebau?,welsh,Did you see their faces?
 Ydy cathod yn breuddwydio?,welsh,Do cats dream?
-Ydy'r ddau ohonynt yn deall Siapaneg?,welsh,Do both of them understand Japanese?
-Oes ganddyn nhw arian?,welsh,Do they have any money?
-Wyt ti dal yn ei garu o?,welsh,Do you still love her?
-Oes ganddo arian?,welsh,Does he have any money?
+Ydy'r ddau ohonynt yn deall Siapaneg?,welsh,Do they both understand Japanese?
+Oes ganddyn nhw arian?,welsh,Do they have money?
+Wyt ti dal yn ei garu o?,welsh,Do you still love him?
+Oes ganddo arian?,welsh,Does he have money?
+Oes ganddo arian?,welsh,Has he got money?
 Ydy o'n hoffi Siapan?,welsh,Does he like Japan?
 Ydy cariad yn bodoli?,welsh,Does love exist?
 Oes ganddi hi gariad?,welsh,Does she have a boyfriend?
+Oes ganddi hi gariad?,welsh,Does she have a lover?
 Ydy'r cloc yna yn gweithio?,welsh,Does that clock work?
 Ydy dy ffrind yn siarad Esperanto?,welsh,Does your friend speak Esperanto?
 Ydy dy gyfaill yn siarad Esperanto?,welsh,Does your friend speak Esperanto?
-Mae'n rhaid i mi brynu blodau i'm cariad.,welsh,I have to buy flowers for my girlfriend.
+Mae'n rhaid i mi brynu blodau i'm cariad.,welsh,I have to buy flowers for my love.
 Mae'r ci yn cysgu yn y car.,welsh,The dog is sleeping in the car.
+Mae'r ci yn cysgu yn y car.,welsh,The dog's sleeping in the car.
+Mae yna gath ar y bwrdd.,welsh,There's a cat on the table.
 Mae yna gath ar y bwrdd.,welsh,There is a cat on the table.
 Roeddwn i'n darllen llyfr.,welsh,I was reading a book.
 Ble mae'r swyddfa bost?,welsh,Where is the post office?
 Wnest ti anghofio unrhyw beth?,welsh,Did you forget anything?
 Mae Tom yn anorecsig.,welsh,Tom is anorexic.
-Mae ei theulu yn fawr iawn.,welsh,His family is very large.
+Mae ei theulu yn fawr iawn.,welsh,Her family is very large.
+Mae ei theulu yn fawr iawn.,welsh,His family is very big.
+Mae gen i syniad da.,welsh,I've got a good idea.
 Mae gen i syniad da.,welsh,I have a good idea.
+Dw i'n rhy fyr.,welsh,I am too short.
 Dw i'n rhy fyr.,welsh,I'm too short.
-Pa danlwybr sy'n mynd i ganol y dref?,welsh,Which bus goes to the town center?
+Pa danlwybr sy'n mynd i ganol y dref?,welsh,What subway goes to the center of town?
 Mae'r dref yn enwog am ei hen gastell.,welsh,The town is famous for its old castle.
 Cachu!,welsh,Shit!
 Roedd y llyfr hwn yn hawdd.,welsh,This book was easy.
 Mae gen i lawer o dir.,welsh,I have a lot of land.
-Mae hadau grawnafal yn gymharol fawr.,welsh,Granadilla seeds are relatively large.
+Mae hadau grawnafal yn gymharol fawr.,welsh,Pomegranate seeds are relatively big.
 Mae Muiriel yn ugain mlwydd oed.,welsh,Muiriel is twenty years old.
+Mae Muiriel yn ugain mlwydd oed.,welsh,Muriel is twenty years old.
+Dw i'n hoffi bod gyda thi.,welsh,I like to be with you.
 Dw i'n hoffi bod gyda thi.,welsh,I like being with you.
 Mi es i i'r gwely yn hwyr yn y nos.,welsh,I went to bed late at night.
-Peidiwch â dweud celwydd!,welsh,Don't tell a lie!
+Mi es i i'r gwely yn hwyr yn y nos.,welsh,I went to bed late in the night.
+Peidiwch â dweud celwydd!,welsh,Don't tell lies!
 Mae Tom yn chwarae ffrisbi.,welsh,Tom is playing frisbee.
-Dw i am gael rhywbeth i'w fwyta.,welsh,I want to get something to eat.
-Mae'n amlwg i bawb ei fod e mewn cariad.,welsh,It's obvious to everyone that he's in love.
+Mae Tom yn chwarae ffrisbi.,welsh,Tom is playing Frisbee.
+Dw i am gael rhywbeth i'w fwyta.,welsh,I'm going to get something to eat.
+Dw i am gael rhywbeth i'w fwyta.,welsh,I am going to have something to eat.
+Mae'n amlwg i bawb ei fod e mewn cariad.,welsh,It's evident to everybody that he's in love.
+Mae'n amlwg i bawb ei fod e mewn cariad.,welsh,It's obvious to everyone that he is in love.
 Dw i angen cael swydd.,welsh,I need to get a job.
-"Be' sy'n bod, cariad?",welsh,"What's wrong, darling?"
-Mae'n amhosib iddo rhoi'r gorau i ysmygu.,welsh,It's impossible for him to quit smoking.
+"Be' sy'n bod, cariad?",welsh,What's wrong sweetie?
+"Be' sy'n bod, cariad?",welsh,"What's the matter, love?"
+Mae'n amhosib iddo rhoi'r gorau i ysmygu.,welsh,It is impossible for him to give up smoking.
+Mae'n amhosib iddo rhoi'r gorau i ysmygu.,welsh,It's impossible for him to give up smoking.
 Dw i wir angen siarad gyda thi.,welsh,I really need to talk to you.
+Dw i wir angen siarad gyda thi.,welsh,I really need to talk with you.
 Mae'r llyfr hwn yn rhy ddrud i mi.,welsh,This book is too expensive for me.
-Roedd gen i syniad gwych.,welsh,I had a great idea.
+Roedd gen i syniad gwych.,welsh,I had a brilliant idea.
 Gad i mi wybod.,welsh,Let me know.
 Gadewch i mi wybod.,welsh,Let me know.
-Wyt ti wedi ymweld â sw yn dy wlad di?,welsh,Have you visited a SW in your country?
+Wyt ti wedi ymweld â sw yn dy wlad di?,welsh,Have you visited a zoo in your country?
 Mae'n rhaid i mi weld meddyg ar unwaith.,welsh,I need to see a doctor immediately.
+Mae'n rhaid i mi weld meddyg ar unwaith.,welsh,I must see a doctor at once.
 Mae'r ieithydd yn eitha gyfarwydd â'r dafodiaith.,welsh,The linguist is quite familiar with the dialect.
 Nid yw'r llyfr hwn am ieithyddiaeth.,welsh,This book is not about linguistics.
-"Gall berson dwyieithog newid o un iaith i iaith arall yng nghanol frawddeg, ac mae'r cyfnewid-cod hwn yn bwnc astudio i ieithyddion.",welsh,"A bilingual person can switch from one language to another in the middle of a sentence, and this code-switching is a topic of study for linguists."
+"Gall berson dwyieithog newid o un iaith i iaith arall yng nghanol frawddeg, ac mae'r cyfnewid-cod hwn yn bwnc astudio i ieithyddion.",welsh,"A bilingual person can change from one language to another in the middle of a sentence, and this code-switching is a topic of study for linguists."
 Ieithydd Americanaidd oedd Edward Sapir.,welsh,Edward Sapir was an American linguist.
-Mae gen i'r ffliw a dw i wedi blino.,welsh,I have the flu and I am tired.
+Mae gen i'r ffliw a dw i wedi blino.,welsh,I have the flu and I'm tired.
+Mae gen i'r ffliw a dw i wedi blino.,welsh,I have flu and I'm tired.
 Dwyt ti ddim i fod i ysmygu yma.,welsh,You are not supposed to smoke here.
-Rydym ni am wahodd Tom a Mary i'n parti Nos Galan Gaeaf.,welsh,We want to invite Tom and Mary to our Halloween party.
-Tywynna'r bryn gan liwiau hydrefol.,welsh,The hill is illuminated by autumn colors.
+Dwyt ti ddim i fod i ysmygu yma.,welsh,You're not supposed to smoke here.
+Rydym ni am wahodd Tom a Mary i'n parti Nos Galan Gaeaf.,welsh,We're going to invite Tom and Mary to our Halloween party.
+Tywynna'r bryn gan liwiau hydrefol.,welsh,The hill glows with autumnal colors.
 Roedd hi'n noswaith hydrefol hyfryd.,welsh,It was a lovely autumn evening.
 Mae'r hydref yma.,welsh,Autumn is here.
+Mae'r hydref yma.,welsh,The autumn is here.
 Try'r mynydd i gyd yn goch yn yr hydref.,welsh,The whole mountain turns red in autumn.
 Mae'r dail yn newid eu lliw yn yr hydref.,welsh,The leaves change color in autumn.
-"Yn yr hydref, syrth y dail o'r coed.",welsh,"In autumn, the leaves fall from the trees."
+Mae'r dail yn newid eu lliw yn yr hydref.,welsh,The leaves change their colour in autumn.
+"Yn yr hydref, syrth y dail o'r coed.",welsh,"In autumn, leaves fall from trees."
+"Yn yr hydref, syrth y dail o'r coed.",welsh,"In the Autumn, the leaves fall from the trees."
 Yr hydref yw'r tymor gorau ar gyfer darllen.,welsh,Autumn is the best season for reading.
+Fel deilen yn yr hydrefwynt.,welsh,Like a leaf in the autumn breeze.
 Fel deilen yn yr hydrefwynt.,welsh,Like a leaf in the autumn wind.
-Mae ganddo ddwylo esmwyth.,welsh,He has soft hands.
+Mae ganddo ddwylo esmwyth.,welsh,He has smooth hands.
 Wyt ti'n siarad Saesneg?,welsh,Do you speak English?
+Mae gen i lyfr.,welsh,I've got a book.
 Mae gen i lyfr.,welsh,I have a book.
-Sut mae'r tywydd?,welsh,How's the weather?
+Sut mae'r tywydd?,welsh,How is the weather?
 Wyt ti'n hoffi astudio?,welsh,Do you like studying?
 Mae fy llygaid yn las.,welsh,My eyes are blue.
 Mae'r tywydd yn braf heddiw.,welsh,The weather is nice today.
 Mae'r bwrdd hwn yn lân.,welsh,This table is clean.
-Llosgodd ei sigarét o dwll yn ei ffrog hi.,welsh,She burned a hole in her dress with his cigarette.
+Llosgodd ei sigarét o dwll yn ei ffrog hi.,welsh,His cigarette burned a hole in her dress.
+Llosgodd ei sigarét o dwll yn ei ffrog hi.,welsh,His cigarette burnt a hole in her dress.
 Mae'r athro newydd yn y dosbarth.,welsh,The new teacher is in the classroom.
 Mae'r athrawes newydd yn y dosbarth.,welsh,The new teacher is in the classroom.
-Mae hi'n fyd creulon.,welsh,The world is cruel.
+Mae hi'n fyd creulon.,welsh,It's a cruel world.
 Dw i'n hoffi bananas yn fwy nag afalau.,welsh,I like bananas more than apples.
-Mi gaeodd o'r drws yn flin.,welsh,He slammed the door angrily.
-"Mae gen ti gyfnod canolbwyntio iâr. ""Mae ieir yn blasus."" ""Fy mhwynt yn union.""",welsh,"You have a chicken concentration period. ""Chickens are tasty."" ""My point exactly."""
+Mi gaeodd o'r drws yn flin.,welsh,He angrily closed the door.
+Mi gaeodd o'r drws yn flin.,welsh,He shut the door angrily.
+"Mae gen ti gyfnod canolbwyntio iâr. ""Mae ieir yn blasus."" ""Fy mhwynt yn union.""",welsh,"You have the attention span of a chicken. ""Chickens are delicious."" ""My point exactly."""
+"Mae gen ti gyfnod canolbwyntio iâr. ""Mae ieir yn blasus."" ""Fy mhwynt yn union.""",welsh,"You have the attention span of a chicken. ""Chickens are tasty."" ""My point exactly."""
+"Ddoe, aeth fy chwaer i Kobe.",welsh,Yesterday my sister went to Kobe.
 "Ddoe, aeth fy chwaer i Kobe.",welsh,"Yesterday, my sister went to Kobe."
 Y broblem yw bod egni solar yn rhy ddrud.,welsh,The problem is that solar energy is too expensive.
+Y broblem yw bod egni solar yn rhy ddrud.,welsh,The problem is that solar power is too expensive.
 Mae'r bobl yn dioddef.,welsh,The people are suffering.
+Mi dreuliodd o lawer o'i amser yn darllen.,welsh,He spent much of his time reading.
 Mi dreuliodd o lawer o'i amser yn darllen.,welsh,He spent a lot of his time reading.
 Gest ti amser da ddoe?,welsh,Did you have a good time yesterday?
 Heddiw yw dydd Gwener.,welsh,Today is Friday.
 Mae Tom a Mary yn chwarae Cluedo gyda'u ffrindiau.,welsh,Tom and Mary are playing Cluedo with their friends.
-Mae'r myfyrwyr yn gwirioni at yr athro Saesneg newydd.,welsh,The students are excited about the new English teacher.
-Mae'r myfyrwyr yn gwirioni at yr athrawes Saesneg newydd.,welsh,The students are excited about the new English teacher.
+Mae'r myfyrwyr yn gwirioni at yr athro Saesneg newydd.,welsh,The students adore the new English teacher.
+Mae'r myfyrwyr yn gwirioni at yr athrawes Saesneg newydd.,welsh,The students adore the new English teacher.
 Does dim rhaid i Tom ymddiheuro i Mary.,welsh,Tom doesn't have to apologize to Mary.
-Pa fathau o frechdanau sydd gennych?,welsh,What kinds of sandwiches do you have?
-Pa fathau o frechdanau sydd gennyt ti?,welsh,What kinds of sandwiches do you have?
+Does dim rhaid i Tom ymddiheuro i Mary.,welsh,Tom doesn't have to apologise to Mary.
+Pa fathau o frechdanau sydd gennych?,welsh,What types of sandwiches do you have?
+Pa fathau o frechdanau sydd gennyt ti?,welsh,What types of sandwiches do you have?
+Pa fathau o frechdanau sydd gennyt ti?,welsh,What sort of sandwiches do you have?
 "Mae o'n sgrechian, nid canu.",welsh,"He's screaming, not singing."
+"Mae o'n sgrechian, nid canu.",welsh,"He is screaming, not singing."
 Mae o'n ddigon hen i fynd i'r ysgol.,welsh,He's old enough to go to school.
+Mae o'n ddigon hen i fynd i'r ysgol.,welsh,He is old enough to go to school.
+Beth ydy Tom yn darllen?,welsh,What's Tom reading?
 Beth ydy Tom yn darllen?,welsh,What is Tom reading?
-Mae o'n gweithio oriau hir.,welsh,He's working long hours.
+Mae o'n gweithio oriau hir.,welsh,He works long hours.
 "Os wyt ti eisiau rhedeg, yna rheda.",welsh,"If you want to run, then run."
-Graddiais o brifysgol eleni.,welsh,I graduated from university this year.
+Graddiais o brifysgol eleni.,welsh,I graduated from university last year.
 Sul y mamau hapus!,welsh,Happy Mother's Day!
+Sul y mamau hapus!,welsh,Happy Mothering Sunday.
+Ble mae'r banc agosaf?,welsh,Where's the nearest bank?
 Ble mae'r banc agosaf?,welsh,Where is the nearest bank?
 Rwy'n gweithio mewn banc.,welsh,I work in a bank.
 Paid eistedd ar y bench na.,welsh,Don't sit on that bench.
-Dyma fy nghyfrinach i. Mae hi'n syml iawn. Dim ond efo'r galon mae gweld yn iawn. Mae'r hyn sy'n bwysig anweledig i'r llygad.,welsh,This is my secret. It's very simple. One can only see well with the heart. What is essential is invisible to the eye.
 Dw i'n mynd i ddysgu almanaeg.,welsh,I'm going to learn German.
 Ydych chi'n siarad Saesneg?,welsh,Do you speak English?
-"Ein Tad yn y nefoedd, sancteiddier dy enw; deled dy deyrnas; gwneler dy ewyllys, ar y ddaear fel yn y nef. Dyro inni heddiw ein bara beunyddiol, a maddau inni ein troseddau, fel yr ym ni wedi maddau i'r rhai a droseddodd yn ein herbyn; a phaid â'n dwyn i brawf, ond gwared ni rhag yr Un drwg.",welsh,"Our Father in heaven, hallowed be your name; your kingdom come; your will be done, on earth as it is in heaven. Give us today our daily bread, and forgive us our trespasses, as we have forgiven those who trespass against us; and lead us not into temptation, but deliver us from the Evil One."
 Rhaid i chi ateb y cwestiwn.,welsh,You must answer the question.
-Mae e'n gallu darllen yn dda.,welsh,He can read well.
-Dydy Ellen ddim yn gallu siarad Cymraeg.,welsh,Ellen can't speak Welsh.
-Mae Tom yn siarad.,welsh,Tom is speaking.
+Rhaid i chi ateb y cwestiwn.,welsh,You have to answer the question.
+Mae e'n gallu darllen yn dda.,welsh,He can read pretty well.
+Mae e'n gallu darllen yn dda.,welsh,He is good at reading.
+Dydy Ellen ddim yn gallu siarad Cymraeg.,welsh,Ellen does not speak English.
+Dydy Ellen ddim yn gallu siarad Cymraeg.,welsh,Ellen doesn't speak Welsh.
+Mae Tom yn siarad.,welsh,Tom is talking.
+Does dim cath gyda fi.,welsh,I don't have a cat.
+Oes ci gyda fe?,welsh,Has he got a dog?
+Oes ci gyda fe?,welsh,Does he have a dog?
+Oes ci gyda hi?,welsh,Has she got a dog?
+Oes ci gyda hi?,welsh,Does she have a dog?
+Dych chi'n siarad.,welsh,You speak.
+Dych chi'n siarad.,welsh,You are talking.
+Wyt ti'n siarad.,welsh,You speak.
+Wyt ti'n siarad.,welsh,Are you talking?
+Dw i'n nofio yn y cefnfor.,welsh,I'm swimming in the ocean.
+Mae'r nos yn dywyll.,welsh,The night is dark.
+Mae'r coffi yn oer.,welsh,The coffee is cold.
+Mae'r dŵr yn poeth.,welsh,The water is hot.
+Mae'r dŵr yn lân.,welsh,The water is clean.
+Mae'r tŷ yn mawr.,welsh,The house is big.
+Mae'r dyn yn tal.,welsh,The man is tall.
+Mae gen i ddwy gath.,welsh,I have two cats.
+Mae gen i ddwy gath.,welsh,I have two female cats.
+"Pan ydw i'n rhoi bwyd i'r tlodion, 'dw i'n cael 'ngalw i'n saint. Pan ydw i'n gofyn pam nag oes bwyd gyda'r tlodion, 'dw y'n cael 'ngalw i'n gomiwnydd.",welsh,"When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist."
+Gwelon nhw gath yn yr ardd.,welsh,They saw a cat in the garden.
+Gwelodd y ddraig hi.,welsh,The dragon saw her.
+Cerddon nhw adre.,welsh,They walked home.
+Hoffwn i ymgeisio am y swydd honno.,welsh,I would like to apply for that job.
+Mi brynais i docyn.,welsh,I bought a ticket.
+Ni chafodd e ginio.,welsh,He didn't have lunch.
+Phryna i mo'r car yfory.,welsh,I won't buy the car tomorrow.
+Roedd yr afal yn flasus.,welsh,The apple was tasty.
+Diflanodd yr hwyaden.,welsh,The duck disappeared.
+Dw i'n casáu'r bwyd yn y ffreutur.,welsh,I hate the food in the refectory.
+Dw i'n casáu'r bwyd yn y ffreutur.,welsh,I hate the food in the canteen.
+Mae'r plant wedi anghofio eu gwaith cartref.,welsh,The children have forgotten their homework.
+Mae hi fan hyn.,welsh,She is here.
+Mae hi'n darllen.,welsh,She's reading.
+Mae hi'n darllen.,welsh,She is reading.
+Mae'r dyn yn cryf.,welsh,The man is strong.
+Mae hi'n cantores.,welsh,She is a singer.
+Mae gen i frawd hŷn.,welsh,I have an older brother.
+Mae'n braf cwrdd â chi.,welsh,Pleased to meet you.
+Mae'n braf cwrdd â chi.,welsh,It's nice to meet you.
+Rydw i'n bwyta.,welsh,I'm eating.
+Rydw i'n bwyta reis nawr.,welsh,I'm eating rice now.
+Rydw i'n bwyta cinio.,welsh,I'm eating lunch.
+Rydw i'n bwyta yma.,welsh,I'm eating here.
+Maen nhw'n darllen llyfr.,welsh,They're reading a book.
+Maen nhw'n darllen llyfr.,welsh,They are reading a book.
+Gyda pha stryd y dylem ddechrau?,welsh,Which street should we start with?
+Sasha yw fy enw i.,welsh,My name is Sasha.
+'Rydyn ni'n hapus.,welsh,We are happy.
+Paid ag ysmygu yn y gwely!,welsh,Don't smoke in bed!
+Llyfr newydd yw'r llyfr hwnnw.,welsh,That book is a new book.
+Wyt ti'n byw yma?,welsh,Do you live here?
+Nid oes cwrw yma.,welsh,There is no beer here.
+Mae'r bachgen yn bwyta bara.,welsh,The boy is eating bread.
+Mae gennyf lyfr.,welsh,I have a book.
+Mae'n rhaid i mi ysgrifennu llythyr.,welsh,I have to write a letter.
+Bob wythnos yr â i bysgota.,welsh,I go fishing every week.
+Mae gennyf gerdyn gredid.,welsh,I have a credit card.
+Mae gennych lawer o lyfrau.,welsh,You have a lot of books.
+Bydd hi'n gweithio.,welsh,She will be working.
+Mae Tom wedi mynd i'r gwely.,welsh,Tom has gone to bed.
+Dwi'n hapus.,welsh,I'm happy.
+Rydw i'n yfed llaeth.,welsh,I'm drinking milk.
+Mae ganddi blodau coch.,welsh,She has red flowers.
+Rwyt ti'n mynd i'r ysgol.,welsh,You're going to school.
+Mae hi'n mynd i'r ysgol.,welsh,She's going to school.
+"Coffi, ys gwelwch yn dda.",welsh,"Coffee, please."
+'Dwi yn y tŷ.,welsh,I am in the house.
+Mae Ken yn hapus.,welsh,Ken is happy.
+Dw i'n hoffi siarad Cymraeg.,welsh,I like to speak Welsh.
+Dw i'n hoffi siarad Cymraeg.,welsh,I like speaking Welsh.
+Dw i'n hoffi coffi.,welsh,I like coffee.
+"Dim problem, wrth cwrs, os chi'n mynd",welsh,Of course it's not a problem if you go.
+"Dim problem, wrth cwrs, os chi'n mynd",welsh,"No problem, of course, if you're going."
+Does gen i ddim amser.,welsh,I don't have time.
+Does gen i ddim amser.,welsh,I have no time.
+Does gen i ddim arian.,welsh,I don't have money.
+Does gen i ddim arian.,welsh,I have no money.
+Fy enw I yw Jack.,welsh,My name is Jack.
+Mae 'na ynysoedd yn y môr.,welsh,There are islands in the sea.
+Dw i'n trio dysgu Saesneg.,welsh,I'm trying to learn English.
+Dw i'n chwarae yn yr ardd.,welsh,I'm playing in the garden.
+Rwyt ti'n chwarae yn yr ardd.,welsh,You're playing in the garden.
+Dych chi'n chwarae yn yr ardd.,welsh,You're playing in the garden.
+Mae e'n chwarae yn yr ardd.,welsh,He's playing in the garden.
+Mae hi'n chwarae yn yr ardd.,welsh,She's playing in the garden.
+Dyn ni'n chwarae yn yr ardd.,welsh,We're playing in the garden.
+Maen nhw'n chwarae yn yr ardd.,welsh,They're playing in the garden.
+Dw i'n dysgu cerddoriaeth.,welsh,I'm learning music.
+Mae'r pysgod yn byw yn y môr.,welsh,Fish live in the sea.
+Mae'r ty yn fach,welsh,The house is small.
+Mae'r pysgod yn byw yn y môr.,welsh,The fish lives in the sea.
+I ble mae Tom yn mynd?,welsh,Where is Tom going?
+Pwy sy'n mynd i'r farchnad?,welsh,Who goes to the market?
+Be' sy'n bod gyda Tom?,welsh,What's up with Tom?
+Beth mae Tom yn gwneud?,welsh,What is Tom doing?
+Beth ydy Tom?,welsh,What is Tom?
+Pwy ydy Tom?,welsh,Who is Tom?
+Cwestiwn: Ai gi neu gath yw Cwci? Ateb: Un o rhein.,welsh,Question: Is Cookie a dog or a cat? Answer: One of those.
+Dwi byth yn codi cyn saith.,welsh,I never get up before seven.
+Nid Tom ydw i.,welsh,I'm not Tom.
+Dw i'n hoffi Hokkaido.,welsh,I like Hokkaido.
+"Ar hyn o bryd, Burj Khalifa yw'r nendwr uchaf yn y byd.",welsh,Burj Khalifa is currently the tallest skyscraper in the world.
+Dw i ddim yn deall.,welsh,I don't understand.
+Mae un o gŵn fy ffrind yn dew.,welsh,One of my friend's dogs is fat.
+Mae swydd arall gen i.,welsh,I got another job.
+Ces i swydd arall.,welsh,I got another job.
+Ddyweda i byth wrth neb pwy wyt ti mewn gwirionedd.,welsh,I'll never tell anyone who you really are.
+Gwyliwn.,welsh,We will watch.
+Mae fy chwaer yn hoffi dawnsio.,welsh,My sister likes to dance.
+Dw i'n gweithio bob dydd ond Dydd Sul.,welsh,I work every day save Sundays.
+Dw i'n Wyddel.,welsh,I'm Irish.
+Mae o'n medru gweld drwy gefn ei phen.,welsh,He has eyes at the back of his head.
+Mae'r ci yn ddu.,welsh,The dog is black.
+Defol!,welsh,Get the hell out of here!
+Mae llyfr gen i.,welsh,I have a book.
+Mae llyfr gen i.,welsh,I've got a book.
+Mae'r athro newydd yn y dosbarth.,welsh,The new teacher is in the class.
+I ble mae Tom yn mynd?,welsh,Where's Tom going?
+Ble mae'r swyddfa bost?,welsh,Where's the post office?
+Dŵr yw bywyd.,welsh,Water is life.
+Mae'r frawddeg ddim yn wneud synnwyr.,welsh,The sentence makes no sense.
+Mae rhaffau yn amgylchu'r lle.,welsh,Ropes surround the place.
+Wyt ti'n mynd i chwarae pêl-droed yfory.,welsh,You are going to play football tomorrow.
+Dw i'n gweld dy geffyl di.,welsh,I see your horse.
+Beth yn union ydy synnwyr cyffredin?,welsh,What exactly is common sense?
+Mae'r ystafell cyfarfod i lawr y grisiau.,welsh,The meeting room is downstairs.
+Barlys ydy ein prif gynnyrch.,welsh,Barley is our main product.
+Dydy Tom ddim yn hoffi astudio.,welsh,Tom doesn't like studying.
+Welais i Tom yn rhedeg lawr y stryd.,welsh,I saw Tom running down the street.
+Mae Tom yn hynod o olygus.,welsh,Tom is incredibly handsome.
+Nes i newydd orffen darllen y llyfr.,welsh,I just finished reading the book.
+Dylwn i ddim wedi gofyn i ti i wnaed hynny.,welsh,I shouldn't have asked you to do that.
+Roeddwon i'n meddwl roeddwt ti'n cysgu.,welsh,I thought you were sleeping.
+"Hwyl, Sayoko.",welsh,"Goodbye, Sayoko."
+"Pwy dych chi? ""Tom dw i.""",welsh,"Who are you? ""I'm Tom."""
+"Sut dych chi, Tom?",welsh,"How are you, Tom?"
+Diolch!,welsh,Thank you!
+Dw i'n hoffi dawnsio gyda Maria,welsh,I like dancing with Maria.
+Ble mae'r tamponau?,welsh,Where are the tampons?
+Torrodd Tom ei ffêr,welsh,Tom broke his ankle.
+Tom yw fy unig blentyn.,welsh,Tom is my only child.
+Mae'r llawr yn llithrig iawn,welsh,The floor is very slippery.
+"Mae Tom yn byw yn Boston, hefyd.",welsh,"Tom lives in Boston, too."
+Doedd neb yn gwybod.,welsh,No one knew.
+Mae blas chwerw i'r coffi hwn.,welsh,This coffee has a bitter taste.
+Mae gan y coffi hwn flas chwerw.,welsh,This coffee has a bitter taste.
+Hwyl fawr a phob lwc.,welsh,Goodbye and good luck.
+Nofiodd Tom gyda'i fab.,welsh,Tom swam with his son.
+Dydy hi ddim yn rhy anodd i ddysgu Ffrangeg.,welsh,It's not too hard to learn French.
+Roedd hi'n oer tu allan.,welsh,It was cold outside.
+Mae'r bwrdd yn yr ystafell fyw.,welsh,The table is in the living room.
+Dw i eisiau dysgu sut i chwarae gwyddbwyll.,welsh,I want to learn how to play chess.
+Rhoddodd Mary ei chyfeiriad i mi.,welsh,Mary gave me her address.
+Beth yw'r gwahaniaeth rhwng pentref a dinas?,welsh,What's the difference between a village and a city?
+Ble mae Rhufain?,welsh,Where is Rome?
+Mae fy nhad fel ffrind i mi.,welsh,My father is like a friend to me.
+Ydy Tom a Mary yn cofio unrhyw beth?,welsh,Do Tom and Mary remember anything?
+Dw i methu yfed coffi heb siwgr.,welsh,I can't drink coffee without sugar.
+Dw i ddim yn gallu yfed coffi heb siwgr.,welsh,I can't drink coffee without sugar.
+Dwyt ti ddim yn fy ngharu i.,welsh,You don't love me.
+Mae Tom yn astudio.,welsh,Tom's studying.
+Roedd hi eisiau bod yn athrawes.,welsh,She wanted to be a teacher.
+Rwyt ti'n hŷn na fi.,welsh,You're older than me.
+Diolch am edrych ar ôl y plant.,welsh,Thanks for taking care of the kids.
+Rydyn ni angen prynu anrheg iddyn nhw.,welsh,We need to buy a gift for them.
+Pa het wyt ti'n hoffi?,welsh,What hat do you like?
+Dw i ddim yn hoffi pobl.,welsh,I dislike people.
+Beth?,welsh,What?
+Pam?,welsh,Why?
+Wyt ti'n hoffi cathod?,welsh,Do you like cats?
+Dw i'n prynu bara.,welsh,I'm buying bread.
+Mae fy nghariad yn crio.,welsh,My beloved is crying.
+Roedd y plant yn chwarae yn y parc.,welsh,The children were playing in the park.
+Faint o'r gloch yw hi?,welsh,What time is it?
+Mae Eliza yn crio.,welsh,Eliza is crying.
+Ble mae'r gath?,welsh,Where's the cat?
+Ydy o'n yfed coffi?,welsh,Does he drink coffee?
+Dw i'n meddwl dy fod ti'n gallu ei wnaed o.,welsh,I think you can do it.
+O'r diwedd!,welsh,Finally!
+"Mae hi'n honni bod hi'n gwybod dim byd amdano fe, ond dw i ddim yn ei chredu hi.",welsh,"She claims that she knows nothing about him, but I don't believe her."
+Mae hi'n honni bod hi'n gwybod dim byd amdano fe.,welsh,She claims that she knows nothing about him.
+Athrawes dych chi?,welsh,Are you a teacher?
+Dw i'n mwynhau gweithio mewn siop.,welsh,I enjoy working in a shop.
+Rydyn ni wedi gwylio'r ffilm 'ma dwywaith.,welsh,We've watched this film two times.
+Trydanwr mewn theatr dych chi?,welsh,Are you an electrician in a theater?
+Dw i mewn drama.,welsh,I am in a play.
+Gŵr tŷ dw i.,welsh,I am a house-husband.
+Gwraig tŷ dw i.,welsh,I am a housewife.
+Siopwr dw i.,welsh,I am a shopkeeper.
+Heddwas dych chi?,welsh,Are you a police officer?
+Nos da.,welsh,Good night.
+Dych chi'n gwisgo menig?,welsh,Are you wearing gloves?
+Dw i'n gwisgo esgidiau.,welsh,I am wearing shoes.
+"Sut dych chi, Dylan?",welsh,"How are you, Dylan?"
+"Sut dych chi, Draig?",welsh,"How are you, Dragon?"
+Dw i'n yfed te.,welsh,I drink tea.
+Dw i'n bwyta selsig.,welsh,I'm eating sausages.
+Dw i'n hoffi selsig.,welsh,I like sausages.
+Dw i'n hoffi cennin.,welsh,I like leeks.
+Dw i'n hoffi cennin a selsig.,welsh,I like leeks and sausages.
+Dw i'n bwyta bara.,welsh,I am eating bread.
+Tybed wyt ti'n gwybod sut i wneud hynny.,welsh,I suppose you know how to do that.
+Dw i'n gweithio fel ysgrifenyddes ar fferm.,welsh,I work as a secretary on a farm.
+Dw i'n gweithio mewn ysgol Gymraeg.,welsh,I work in a Welsh school.
+Athro di-waith dw i.,welsh,I am an unemployed teacher.
+Ysgrifennydd dw i.,welsh,I'm a secretary.
+Actor Cymraeg mewn theatr dw i.,welsh,I am a Welsh-speaking actor in a theatre.
+Beth wyt ti’n wneud?,welsh,What are you doing?
+Beth ydych chi’n wneud?,welsh,What are you doing?
+Ble wyt ti’n mynd nawr?,welsh,Where are you going now?
+Dych chi'n peintio'r llawr?,welsh,Are you painting the floor?
+Dych chi'n gweithio mewn tre?,welsh,Do you work in a town?
+Cewch wared ohoni hi.,welsh,Get rid of her.
+Peidiwch â gadael iddi hi ddianc!,welsh,Don't let her escape!
+Peidiwch â gadael iddo fo ddianc.,welsh,Don't let him get away.
+Mae'n oer iawn nawr.,welsh,It's very cold now.
+"Mae Layla yn fam i chwech, yn byw yn ne dwyrain Lloegr.",welsh,"Layla is a mother of six, living in the south west of England."
+"Rhaid i ni benderfynu, ac yn fuan!",welsh,"We have to decide, and soon!"
+Ydi hwn eich archwiliad cyntaf?,welsh,Is this your first examination?
+"Esgusodwch fi, ond pwy ydych chi?",welsh,"Please, who are you?"
+"Esgusodwch fi, ond o ble ydych chi'n dod?",welsh,"Please, where are you from?"
+O ble ydych chi wedi dod?,welsh,Where have you come from?
+Elli di gerdded?,welsh,Can you walk?
+Mae hi'n dweud ei bod hi'n unig.,welsh,She says that she's lonely.
+Rhaid bod chi wedi'ch cynhyrfu.,welsh,You must be pretty upset.
+Dwi eisiau bwyta losin Siapaneaidd.,welsh,I want to eat Japanese sweets.
+Dwi wedi blino'n racs.,welsh,I am exhausted.
+Gofynodd Tom i Mari beidio mynd ar ei phen ei hun.,welsh,Tom asked Mary not to go alone.
+Bwydodd o ei gi ar yr un pryd bob dydd.,welsh,He fed his dog at the same time every day.
+Mae'r ffilm yn dechrau mewn pum munud.,welsh,The movie starts in five minutes.
+"A beth ydych chi'n yfed? ""Cwrw, os oes gen i, neu ddŵr os nad oes gen i gwrw."" ""'Tydych chi ddim yn yfed gwin?""",welsh,"And what do you drink? ""Ale if I have it, or water if I don't have ale."" ""Don't you drink wine?"""
+Cwynodd neb.,welsh,Nobody complained.
+Dywedodd Mari a wnaeth hi feddwl na fyddai Tomos yn gwneud hynny yfory.,welsh,Mary said she thought that Tom wouldn't do that tomorrow.
+Does gennym ni ddim byd i'w trafod.,welsh,We have nothing to discuss.
+Nid yw Cymru ar Werth.,welsh,Wales is not for sale.
+Nid fel hyn y dylai pethau fod.,welsh,Things shouldn't be like this.
+Fel arall y dylai hi fod.,welsh,It should be the other way round.
+Mae’n hollol warthus.,welsh,It's completely disgraceful.
+Mae o wedi marw yn y fan a’r lle.,welsh,He died on the spot.
+Mae o'n gwneud mor â mynydd o bethau.,welsh,He's making a mountain out of a molehill.
+Pam wyt ti'n drist?,welsh,Why are you sad?
+Faint o bres oes gen ti?,welsh,How much money do you have?
+Faint o arian oes gyda ti?,welsh,How much money do you have?
+Faint o bres 'sgen ti?,welsh,How much money do you have?
+Rhaid bod nhw o'u cof.,welsh,They must be mad.
+Dwi'n meddwl dwi am fynd adre.,welsh,I think it's time I went home.
+Dwi am fynd draw i weld Tomas.,welsh,I want to go round to see Tom.
+Mae arna' i gymaint o ofn.,welsh,I am so afraid.
+Dwi i'n methu cysgu rwan.,welsh,I can't sleep now.
+Dylai fo ddangos parch i mi.,welsh,He should show me respect.
+Dwi eisiau i chi fy mharchu i,welsh,I want your respect.
+Mae'n rhaid dangos parch.,welsh,You must show respect.
+"Ty'd ymlaen, ti'n tynnu fy nghoes.",welsh,"Come on, you're pulling my leg."
+Peidiwch â gwneud sŵn.,welsh,Don't make noise.
+Dywedais wrth Tomas.,welsh,I told Tom.
+Mae hi'n bwrw hen wragedd a ffyn.,welsh,It's raining cats and dogs.
+Mae hi'n bwrw cyllyll a ffyrc.,welsh,It's raining cats and dogs.
+Mi wyt ti'n tynnu fy nghoes.,welsh,You're pulling my leg.
+Dwi'n meddwl dy fod ti'n tynnu fy nghoes.,welsh,I think you're pulling my leg.
+Mae hi'n studo bwrw.,welsh,It's raining cats and dogs.
+Mae hi'n piso bwrw.,welsh,It's pissing down.
+Mae hi'n piso bwrw.,welsh,It's pissing with rain.
+Mae hi'n chwipio bwrw.,welsh,It's lashing.
+Mae barcut yn hedfan uwch ben y goeden.,welsh,There is a kite flying above the tree.
+Cadwch y wers hon yn y cof.,welsh,Keep this lesson in mind.
+Paid â gadael i Tom dy frathu di.,welsh,Don't let Tom bite you.
+Paid â gadael i Tom redeg.,welsh,Don't let Tom run.
+Dw i'n braf.,welsh,I'm fine.
+Dwi’n dda iawn.,welsh,I'm very good.
+Nos Da.,welsh,Goodnight.
+Rydyn ni'n yfed gormod.,welsh,We drink too much.
+Dydw i ddim yn siarad Swedeg.,welsh,I don't speak Swedish.
+Dw i'n hoffi pys.,welsh,I like peas.
+Mae gwallt arian/gwyn yn ffasiynol iawn ar hyn o bryd.,welsh,Silver hair is very fashionable at the moment.
+Mae lliwio gwallt yn dipyn o ymrwymiad.,welsh,Dyeing your hair is a big commitment.
+Dwi am fynd am dro bach.,welsh,I am going to take a short walk.
+Roedd fy mab yn hollol foel pan gafodd ei eni.,welsh,My son was completely bald when he was born.
+Organeb gyda chelloedd cymhleth yw ewcaryot.,welsh,Organisms with complex cells are eukaryotes.
+O ble felly daeth ein cochyn bach ni?,welsh,So where have the red-headed children gone to?
+Mae'r ewcaryotau'n ffurfio un o'r tri pharth o organebau byw.,welsh,Eukaryotes make up one of the three groups of living organisms.
+Mae dyn yn cerdded 200 milltir i brotestio yn erbyn Brexit.,welsh,A man has walked 200 miles in protest of Brexit.
+Defnyddir system o'r enw 'Tacsonomeg Linnaeaidd' i ddosbarthu organebau mewn grwpiau.,welsh,We use a system called the 'Linnaean Taxonomic' to class organisms into groups.
+"Dosberthir meysydd gwyddoniaeth yn ddau brif grŵp: gwyddorau naturiol, a gwyddorau cymdeithasol.",welsh,The areas of science can be put into two general groups: natural sciences and social sciences.
+Mae'n bosib gweld trefn yr elfennau yn y Tabl Cyfnodol sy'n dangos y nifer o brotonau sydd gan bob un a beth yw pwysau atomau'r elfen honno gan ddefnyddio Rhif Avogadro.,welsh,"It is possible to see the order of the elements in the Periodic Table, which shows the number of protons in each of them, with which you can calculate the number of atoms in the element using Avogadro's number."
+Dwi'n falch eich bod chi dros eich annwyd.,welsh,I am glad you're over your cold.
+Dwi'n falch eich bod chi dros eich annwyd.,welsh,I'm glad you're over your cold.
+"Yng Nghymru, mae'n orfodol i fyfyrwyr ysgol astudio cemeg hyd at lefel TGAU (16 oed).",welsh,"In Wales, it is compulsory for students to study chemistry at GCSE level (16 years old)."
+"Mae ei symudiad rhydd yn wahanol iawn i lawer brimatau eraill, yn enwedig yng nghymal yr ysgwydd.",welsh,"Their movement is very different from other primates, in particular in the shoulder joint."
+Nid yw'r ddau fath o fwnci yn perthyn yn arbennig o agos i'w gilydd.,welsh,The two types of monkeys are not particularly related to each other.
+Mae o'n siarad Saesneg.,welsh,He is speaking English.
+Heb amau.,welsh,Without a doubt.
+Llongyfarchiadau!,welsh,Congratulations!
+Mae'r plant yn oer.,welsh,The children are cold.
+Doedd Tom ddim yn ymddangos newynog.,welsh,Tom didn't seem hungry.
+Mae Tom yn rhy ifanc i briodi.,welsh,Tom is too young to get married.
+"Wyt ti'n gallu siarad yn arafach, os gwelwch yn dda?",welsh,Could you please speak more slowly?
+Aeth Layla gyda Sami.,welsh,Layla went with Sami.
+Mae Tom yn dawelach na Mary.,welsh,Tom is quieter than Mary.
+Cyfarfu Tom â Mary yn ysgol.,welsh,Tom met Mary at school.
+Mae Tinhinane yn caru Amayas.,welsh,Tinhinane loves Amayas.
+Beth wyt ti'n gwneud yn yr atig?,welsh,What are you doing in the attic?
+Mae wyth aelod o deulu wnaeth gyflenwi Casnewydd â gwerth hyd at £2.5m o gyffuriau wedi cael eu carcharu.,welsh,The eight family members who had supplied Newport with up to 2.5 million pounds worth of drugs have been imprisoned.
+Pwy o Gymru sydd wedi croesi'r Iwerydd a llwyddo yn y campau yma draw yn America a Chanada?,welsh,Who from Wales has crossed over the Atlantic and succeeded in America and Canada?
+"Mae pêl-droed Americanaidd, pêl fas, pêl-fasged a hoci iâ yn cael eu gweld fel y chwaraeon nodweddiadol yng Ngogledd America.",welsh,"American football, baseball, basketball and ice hockey are seen as the typical sports of North America."
+Dywedodd Heddlu Dyfed-Powys y bu farw'r dyn yn y fan a'r lle wedi iddo gael ei daro gan gar Renault Clio coch.,welsh,Dyfed-Powys police said that the man died at the scene after being hit by a red Renault Clio.
+Dyn wedi marw ar ôl cael ei daro gan gar ym Mhowys.,welsh,A man has died after being hit by a car in Powys.
+Rydyn ni'n gweld plant gydag ymddygiad heriol achos bod ganddyn nhw anawsterau dysgu yn fwy tebygol o gael eu gwahardd.,welsh,We see that children with bad behaviour due to their learning difficulties are more likely to get excluded.
+"'Mae rhai ysgolion yn well nag eraill am gynnig cymorth bugeiliol i blant,' meddai.",welsh,"'Some schools are better at providing pastoral support to children', he said."
+"'Mae rhai ysgolion yn well nag eraill am gynnig cymorth bugeiliol i blant,' meddai.",welsh,"'Some schools are better at providing pastoral support to children', she said."
+Dechreuodd ymddygiad mab Liz waethygu pan ddechreuodd yn yr ysgol uwchradd.,welsh,Liz's son's behaviour started to deteriorate when he started secondary school.
+"Yn ôl un arbenigwr mae'r profiad yn gallu bod yn ""sioc anferth"" i deuluoedd.",welsh,"According to an expert, the experience can be a 'huge shock' to families."
+Mae yna alw am fwy o gymorth i deuluoedd pan mae plentyn yn cael ei wahardd o'r ysgol.,welsh,There is a call for more support for families when their child is excluded from school.
+Wnes i ddim darllen llawer o lyfrau wythnos diwetha.,welsh,I read few books last week.
+Yfedodd hi ysgytlaeth protein.,welsh,She took a protein shake.
+Rhaid i ni dilyn Tom.,welsh,We need to follow Tom.
+"Ddydd Sul, fyddwn ni ddim yn bwyta adref.",welsh,"On Sunday, we won't be eating at home."
+Arosodd Sami i Layla yn ei fflat.,welsh,Sami waited for Layla in her apartment.
+Dw i'n meddwl bod rhaid i Tom hynny.,welsh,I think that Tom had to do that.
+Dw i'n bwyta popeth.,welsh,I eat everything.
+Rhaid i Tom yn aros.,welsh,Tom has to stay.
+Y ceffyl hwnnw yn ddrud iawn.,welsh,That horse is very expensive.
+Dywedodd Mary mae hi'n iach.,welsh,Mary said she's healthy.
+Gwybododd Mary ddim ble roedd ei phen.,welsh,Mary didn't know where her pen was.
+Mae Sami ddim yn berson creadigol.,welsh,Sami is not a creative person.
+Mae'r milwyr yn gwisgo helmedau haearn.,welsh,The soldiers are wearing iron helmets.
+Mae gen i gleis yn fy mraich.,welsh,I have a bruise on my arm.
+Dwi'n gallu siarad gyda ti am eiliad?,welsh,May I speak with you for a moment?
+Gwnaeth hi ei gwisg Calan Gaeaf ei hun.,welsh,Mary made her own Halloween costume.
+"Dw i ddim yn gwybod sut i wneud hynny, ond bydda i'n ceisio.",welsh,"I don't know how to do that, but I'll try."
+Gwisgodd Sami jîns.,welsh,Sami wore jeans.
+Bydda i'n mynd i adael ysgol.,welsh,I'm going to leave school.
+Mae Layla ddim yn dy cariad.,welsh,Layla is not your girlfriend.
+Addawodd hi bydd hi'n dweud ni.,welsh,She promised that she would tell us.
+Pam wyt ti'n casau Tom cymaint?,welsh,Why is it that you hate Tom so much?
+Mae'n enw slafaidd.,welsh,It's a Slavic name.
+Nofion Tom a Mary yn y llyn rhewllyd.,welsh,Tom and Mary swam in the freezing lake.
+Mae Tom eisiau prynu ceffyl.,welsh,Tom wants to buy a house.
+Mae Mayuko yw gweld i bod dig.,welsh,Mayuko looks cross.
+Dw i'n wedi colli'r allwedd.,welsh,I have lost the key.
+Rhaid i hi ei helpu.,welsh,She needs to help him.
+Weithiau rwyt ti'n fy synnu.,welsh,Sometimes you surprise me.
+Dw i eisiau mynd i Paris i astudio celf.,welsh,I wish to go to Paris to study art.
+Helpais i Tom i lenwi'r ffurflen gais.,welsh,I helped Tom fill out the application form.
+Beth mae Tom yn gwneud?,welsh,What's Tom doing?
+"Un, dau, tri, pedwar, pump, chwech, saith, wyth, naw, deg.",welsh,"One, two, three, four, five, six, seven, eight, nine, ten."
+Mae Mennad eisiau dweud rhywbeth.,welsh,Mennad wants to say something.
+Mae Mennad yn newydd yma.,welsh,Mennad is new here.
+Deintydd Baya ydy Mennad.,welsh,Mennad is Baya's dentist.
+Daeth Mennad i'r twrnament.,welsh,Mennad came to the tournament.
+Mae Mennad angen dychwelyd i'r ysgol.,welsh,Mennad needs to go back to school.
+Mae Mennad yn gallu gyrru tryc.,welsh,Mennad can drive a truck.
+Gwnaeth Mennad de.,welsh,Mennad made some tea.
+Mae Mennad yn brysur yn y dosbarth.,welsh,Mennad is busy in class.
+Mae'n rhaid i ni geisio'n galetach.,welsh,We've got to try harder.
+Mae Tom a Mair ill dau'n siarad Ffrangeg yn rhugl.,welsh,Both Tom and Mary speak French fluently.
+Dw i'n gwybod tipyn bach o Ffrangeg yn barod.,welsh,I already know some French.
+Dw i'n meddwl fy mod i'n rhugl yn y Ffrangeg.,welsh,I think that I'm fluent in French.
+Gall Mennad esbonio.,welsh,Mennad can explain.
+Roedd hynny ar y newyddion.,welsh,That was on the news.
+Rydym yn gwylio.,welsh,We're watching.
+Gwyliwn.,welsh,We're watching.
+Croeso,welsh,Welcome.
+Mae Tom yn byw yng Nghymru.,welsh,Tom lives in Wales.
+Tá Tomás ina chónaí sa Bhreatain Bheag.,welsh,Tom lives in Wales.
+"Yng Nghymru, mae gennym ddywediad.",welsh,"In Wales, we have a saying."
+Mae clefyd y gwair arnaf i.,welsh,I have hay fever.
+Da bo chi.,welsh,Goodbye.
+Da bo chi!,welsh,Goodbye!
+Mae’n rhaid iddo fynd at y deintydd heddiw.,welsh,He has to go to the dentist today.
+Sawl plentyn sy’ gen ti?,welsh,How many children do you have?
+Mae’n rhaid i ni adael ar ddiwedd y mis.,welsh,We have to leave at the end of the month.
+Roedd yn ddiwrnod braf ddoe.,welsh,It was a lovely day yesterday.
+Mae’r Fanaweg yn hawdd iawn!,welsh,Manx is really easy!
+Mae dy fam yn ifanc iawn.,welsh,Your mother is very young.
+Mae Tom yn ein helpu efo hynny.,welsh,Tom is helping us with that.
+Mae fy ffrind gorau’n dod o Gymru.,welsh,My best friend is Welsh.
+Mae’n enw Cymreig.,welsh,It's a Welsh name.
+Cyhoeddir llawer o lyfrau Cymraeg bob blwyddyn.,welsh,Many Welsh books are published every year.
+"Mae Cernyweg, Cymraeg a Llydaweg yn ieithoedd Celtaidd.",welsh,"Cornish, Welsh and Breton are Celtic languages."
+Dw i wedi dysgu fy mharot i siarad Cymraeg.,welsh,I've taught my parrot to speak Welsh.
+Mae’r Gymraeg yn iaith swyddogol yng Nghymru ac yn Chubut.,welsh,Welsh is an official language in Wales and Chubut.
+Mae Cymraeg yn iaith anodd iawn i mi.,welsh,Welsh is a very difficult language for me.
+Dw i’n deall Cymraeg ond dw i ddim yn medru ei siarad.,welsh,"I understand Welsh, but I can't speak it."
+Y gwir ydy mod i’n dod o Gymru ond dw i’n byw ym Mryste.,welsh,I am actually Welsh but I am living in Bristol.
+Mae orgraff y Gymraeg fel bod llawer o eiriau Cymraeg (fel “ffwrdd” a “gyflwynwyd”) yn arddangos i siaradwyr ieithoedd eraill i beidio cynnwys unrhyw gytseiniaid.,welsh,"Welsh orthography is such that many Welsh words (such as ""ffwrdd"" and ""gyflwynwyd"") appear to speakers of other languages to consist entirely of consonants."
+"Mae Aaron James Ramsey (ganwyd 26 Rhagfyr 1990) yn bêl-droediwr proffesiynol o Gynru sy’n chwarae yng nghanol cae i glwb Serie A, Juventus, a thîm cenedlaethol Cymru.",welsh,Aaron James Ramsey (born 26 December 1990) is a Welsh professional footballer who plays as a midfielder for Premier League club Arsenal and the Wales national team.
+Mae o'n ffrind i mi.,welsh,He is my friend.
+Wyt ti'n deall?,welsh,Do you understand?
+Ydych chi'n deall?,welsh,Do you understand?
+Neb ond Tom wnaeth hynny.,welsh,Nobody but Tom did that.
+Mae gan Tom bentwr o waith i'w wneud.,welsh,Tom's got a tremendous amount of work to do.
+Dw i'n meddwl bod Tom yn byw ym Moston pan oedd o yn yr ysgol uwchradd.,welsh,I think that Tom lived in Boston when he was in high school.
+Dydyn ni ddim wedi troi stôf ymlaen.,welsh,We haven't turned a stove on.
+Diolch am fynd â nhw i bysgota.,welsh,Thanks for taking them fishing.
+Doedd Tom ddim eisiau bod yn fferyllydd.,welsh,Tom didn't want to be a pharmacist.
+Dydy Mennad byth yn siarad am ei hiselder.,welsh,Mennad never talks about his depression.
+Dw i wedi eu lleoli.,welsh,I've located them.
+Galwodd Mari i ddweyd na fyddai hi yn ôl erbyn yfory.,welsh,Mary called to say she wouldn't be back till tomorrow.
+Dywedodd Tom ei fod yn aros am Mari.,welsh,Tom says he's waiting for Mary.
+Dw i'n sicr bod Tom yn euog.,welsh,I'm convinced Tom is guilty.
+Wyt ti'n meddwl bod Tom dal yn dlawd?,welsh,Do you think Tom is still poor?
+Dydw i ddim yn meddwl bydd Tom byth yn medru canu cystal â Mari.,welsh,I don't think Tom will ever be able to sing as well as Mary.
+"'Roeddet ti'n iawn, hefyd.",welsh,"You were right, too."
+Efallai gawn ni brynu un newydd iddi hi.,welsh,Maybe we can buy her a new one.
+Mae Melanie yn meddwl bod y sefyllfa'n wael iawn.,welsh,Melanie thinks that the situation is very bad.
+Ychwanegais lun a gobeithio dy fod ti'n ei weld yn addas.,welsh,I added a picture and hope that you find it appropriate.
+"Mae gan dy draethawd ambell i gamgymeriad, ond ar y cyfan mae'n dda iawn.",welsh,"Your essay has some mistakes, but as a whole it is very good."
+Daeth o hyd i focs o dan y bwrdd.,welsh,He found the box under the table.
+Mae gennym ddigon o ddŵr.,welsh,We have water enough.
+Dywedodd Tom a Mari wrthyf eu bod nhw'n sengl.,welsh,Tom and Mary told me that they were single.
+'Roedd Sami yn gyrru Beamer du.,welsh,Sami drove a black Beamer.
+Ni chyflawnir llwyddiant trwy waith caled.,welsh,Success can only be achieved through hard work.
+Egni a lwydd.,welsh,Success can only be achieved through hard work.
+Gallem frwydro hyn.,welsh,We can't fight this.
+Bydd rhaid iddi fynd yno ar ei phen ei hun.,welsh,She'll have to go there by herself.
+Cymeroedd Meic le fel cadeirydd y cyfarfod.,welsh,Mike acted as chairperson of the meeting.
+Dw i'n gwybod nad ydy Tom yn gwybod y gwnaeth Mari hynny.,welsh,I know that Tom doesn't know that Mary did that.
+Prynodd tad gamera i mi.,welsh,Father bought me a camera.
+Ti'n hoffi peli.,welsh,You like balls.
+'Roedd y ffair yn llawn dop.,welsh,The fair was packed.
+Doedd Tom ddim yn gwybod bod bleiddiau yn yr ardal.,welsh,Tom didn't know there were wolves in the area.
+Dywedodd Tom a Mari wrth Siôn nad oedden nhw'n meddwl bod Alys yn drist.,welsh,Tom and Mary told John that they didn't think Alice was upset.
+Dydyn nhw ddim yn siŵr eu bod nhw'n barod.,welsh,They aren't sure that they're ready.
+Dw i ddim yn siŵr bod Tom yn hoffi hynny.,welsh,I'm not sure Tom likes that.
+Mae pobl sy' jyst eisiau torri ar eich traws a gwastraffu'ch amser.,welsh,There are people who just want to interrupt and waste your time.
+Ildiwch i gerbydau yn dod atoch.,welsh,Give way to oncoming vehicles.
+Mae’r rhwystrau hyn yn cael eu cau dros nos.,welsh,These barriers are closed overnight.
+Cadwer yng nghau ac ar glo.,welsh,Keep locked shut.
+"Mewn argyfwng, pwyswch y botwm i rybuddio’r staff.",welsh,In emergency push button to alert staff.
+"Pan fydd y lamp yn goleuo, siaradwch efo’r staff.",welsh,"When lamp lights, speak to staff."
+Rhowch y caead i lawr cyn tynnu’r dŵr.,welsh,Lower lid before flushing.
+Gwasgwch y botwm.,welsh,Push the button.
+Arhoswch am yr arwydd.,welsh,Wait for signal.
+Ffoniwch 333 (Mewnol) neu 999 i alw’r frigad dân.,welsh,Phone 333 (Internal) or 999 to call the fire brigade.
+Caewch y drysau wrth adael yr adeilad trwy’r allanfa agosaf.,welsh,"Leave the building by the nearest exit, closing doors behind you."
+Ewch i’ch man ymgynnull.,welsh,Report to your assembly point.
+Peidiwch ag oedi i gasglu eiddo personol.,welsh,Do not stop to collect personal belongings.
+Caniateir ysmygu o fewn y llinell derfyn.,welsh,Smoking is permitted within the marked boundary.
+Glanhewch.,welsh,Clean it up.
+Pa mor effeithlon y mae’r adeilad hwn yn cael ei ddefnyddio?,welsh,How efficiently is this building being used?
+Yma nodir faint o garbon deuocsid y mae’r adeilad yn ei allyrru.,welsh,This tells you how much carbon dioxide the building emits.
+Mae’n dangos y tunell y flwyddyn o CO₂.,welsh,It shows tonnes per year of CO₂.
+Yma nodir pa mor effeithlon y mae ynni wedi cael ei ddefnyddio yn yr adeilad hwn dros y tri chyfnod cyfrifo diwethaf.,welsh,This tells you how efficiently energy has been used in this building over the last three accounting periods.
+Yma nodir gwybodaeth dechnegol am y modd y mae ynni yn cael ei ddefnyddio yn yr adeilad hwn.,welsh,This tells you technical information about how energy is used in this building.
+"Tystysgrif Ynni i’w Harddangos yw hon fel y’i diffinnir yn Rheoliadau Perfformiad Ynni Adeiladau 2012, fel y’u diwygiwyd.",welsh,This is a Display Energy Certificate as defined in the Energy Performance of Buildings Regulations 2012 as amended.
+Mae argymhellion ar gyfer gwella perfformiad ynni’r adeilad wedi’u cynnwys yn yr Adroddiad Argymhellion perthynol.,welsh,Recommendations for improving the energy performance of the building are contained in the associated Recommendation Report.
+Pwyswch y botwm i agor y drws.,welsh,Push button to open door.
+Rydych chi yma.,welsh,You are here.
+"Rydych yn parcio ar eich menter eich hun, ni dderbynnir cyfrifoldeb am unrhyw golled, difrod, neu ddwyn.",welsh,"Users park at their own risk. No responsibility will be accepted for any loss, damage or theft."
+Rhybudd! Mae CCTV yn recordio a monitro 24 awr.,welsh,Warning! 24 hour CCTV recording and monitoring.
+Golchwch eich dwylo.,welsh,Wash your hands.
+’R ydych yn hydradol?,welsh,Are you hydrated?
+Cymerwch y prawf lliw wrin.,welsh,Take the urine colour test.
+Mae eich arennau yn anhygoel. Helpwch nhw i weithio’n well drwy hydradu eich hun.,welsh,Your kidneys are amazing. Help them work better by staying hydrated.
+Dyluniwyd gan ddisgyblion Ysgol Bro Dewi.,welsh,Designed by pupils from Ysgol Bro Dewi.
+Rhybudd! Cynnwys Asbestos.,welsh,Warning! Contains Asbestos.
+Mae anadlu llwch asbestos yn beryglus i iechyd.,welsh,Breathing asbestos dust is dangerous to health.
+Dilynwch gyfarwyddiadau diogelwch.,welsh,Follow the safety instructions.
+Gwyliwch eich pen.,welsh,Mind your head.
+Ni ddylid gadael unrhyw roddion ger drws y siop pan fydd y siop ar gau.,welsh,No donations to be left in the doorway when the store is closed.
+Nid oes hawl yfed a bwyta yn y siop hon.,welsh,No drinking or eating permitted in this store.
+Ni chaniateir cŵn ac eithrio cŵn tywys.,welsh,No dogs permitted except guide dogs.
+Ewch â bag o bridd a hadau gyda chi i gau’r tyllau ar y lleiniau.,welsh,Please take a bag of soil and seed to repair divots on the fairways.
+Gadewch y bagiau gweigion yn y bocs gerllaw y 18fed lawnt.,welsh,Leave the empty bags in the container by the 18th green.
+Mae’ch cymorth chi yn sicrhau bod ein cwrs yn cael ei gadw mewn cyflwr da.,welsh,Your assistance helps to keep our course in good condition.
+Diogelu Refeniw yn teithio o gwmpas y rhwydwaith yn rheolaidd.,welsh,Revenue Protection teams are regularly out and about on the network.
+Weithiau bydd ein Swyddogion yn gwisgo gwisg blaen ond byddant bob amser yn dangos ID wrth wirio eich tocynnau.,welsh,Our Officers are sometimes in plain clothing but will always show their ID while carrying out ticket checks.
+"Os na fydd gennych chi docyn dilys, gallwch gael eich erlyn a chael dirwy o hyd at £1000.",welsh,Failure to have a valid ticket may result in prosecution and a fine of up to £1000.
+"Pan fyddwch chi’n dechrau ar eich taith mewn gorsaf lle mae cyfleustera prynu tocynnau ar gael, eich cyfrifoldeb chi yw prynu/ysgogi tocyn dilys ar gyfer y daith cyn mynd ar y trên.",welsh,"When starting your journey at a station where ticket buying facilities are available, it is your responsibility to buy or activate a valid ticket for the journey before boarding a train."
+"Os ydych chi’n 16 oed neu’n hŷn, bydd angen i chi brynu tocyn.",welsh,"If you are 16 or older, you need to buy an adult ticket."
+"Os nad oes cyfleusterau prynu tocynnau yn eich gorsaf, dewch o hyd i aelod o staff cyn gynted â phosib er mwyn prynu tocyn neu i gael cyngor ynghylch y cyfle nesaf i brynu tocyn.",welsh,"If there are no ticket buying facilities at your station, please find a staff member as soon as possible to buy a ticket, or to seek advice on the nearest opportunity to purchase one."
+Barod am antur?,welsh,Are you ready for adventure?
+Barod am antur?,welsh,Are you ready for an adventure?
+Ydych chi wedi datgloi ar gyfer eich cymydog?,welsh,Have you unlocked the door for your neighbour?
+Diolch am eich cydweithrediad.,welsh,Thanks for your cooperation.
+Diffoddwch y golau!,welsh,Turn off the light.
+Mae Tokyo'n ddinas fawr iawn.,welsh,Tokyo is a very big city.
+Dw i wedi blino.,welsh,I'm tired.
+Rhannu yw caru.,welsh,Sharing is caring.
+Sut oedd Tom yn gwybod lle 'roedd Mari'n byw?,welsh,How did Tom know where Mary lived?
+Dw i'n ifanc.,welsh,I am young.
+Dw i eisiau mynd adref.,welsh,I want to go home.
+Dw i'n siarad.,welsh,I'm speaking.
+Dw i'n hoffi siarad Ffrangeg.,welsh,I like speaking French.
+Wyt ti’n siarad Cymraeg?,welsh,Do you speak Welsh?
+Roedd Tom yn siarad.,welsh,Tom was talking.
+Faint o'r gloch yw hi?,welsh,What's the time?
+Mae hi'n bwrw eira eto.,welsh,It's snowing again.
+Mae hi'n siarad Sbaeneg yn dda.,welsh,She speaks Spanish well.
+Mae hi'n hoffi gwrando ar gerddoriaeth.,welsh,She likes listening to music.
+Mae rhywun yn canu.,welsh,Someone's singing.
+Mae rhywun yn canu.,welsh,Someone is singing.
+Mae rhywun yn canu.,welsh,Somebody's singing.
+Dw i'n gweithio yfory.,welsh,I'm working tomorrow.
+Dw i'n hoffi yfed llaeth.,welsh,I like to drink milk.
+Ble mae'r menyn?,welsh,Where's the butter?
+Dw i'n hoffi plant.,welsh,I like children.
+Dw i'n hoffi gweithio.,welsh,I like to work.
+Mae hi'n hoffi coffi.,welsh,She likes coffee.
+Mae hi'n bwrw glaw tu allan.,welsh,It's raining outside.
+Dw i'n byw yn Japan.,welsh,I live in Japan.
+Dw i'n hoffi gwrando ar y radio.,welsh,I like to listen to the radio.
+Dw i'n hoffi gwrando ar y radio.,welsh,I like listening to the radio.
+Cath ydw i.,welsh,I'm a cat.
+Dw i'n yfed cwrw.,welsh,I drink beer.
+Dw i'n yfed gwin.,welsh,I drink wine.
+Anghywir.,welsh,Wrong.
+Yn amlwg.,welsh,Obviously.
+Astudia!,welsh,Study!
+Perffaith!,welsh,Perfect!
+Anhygoel!,welsh,Awesome!
+Paid!,welsh,Stop!
+Ie.,welsh,Yes.
+Nage.,welsh,No.
+Cywir!,welsh,Correct!
+Diddorol.,welsh,Interesting.
+Cofia!,welsh,Remember!
+Tyrd!,welsh,Come!
+Rheda!,welsh,Run!
+Amhosib!,welsh,Impossible.
+Rhyfedd.,welsh,Strange.
+Felly?,welsh,So?
+Nos da!,welsh,Goodnight!
+Gwyllt!,welsh,Wild!
+Dos!,welsh,Go!
+Ewch!,welsh,Go!
+Arhosa!,welsh,Stay!
+Arhoswch!,welsh,Stay!
+Tynna!,welsh,Pull!
+Tynnwch!,welsh,Pull!
+Darllena!,welsh,Read!
+Darllenwch!,welsh,Read!
+Grêt!,welsh,Great!
+Iawn.,welsh,Okay.
+Ymlacia!,welsh,Relax!
+Ymlaciwch!,welsh,Relax!
+Edrycha!,welsh,Look!
+Edrychwch!,welsh,Look!
+Tân!,welsh,Fire!
+Pwy?,welsh,Who?
+Dysga!,welsh,Learn!
+Dysgwch!,welsh,Learn!
+Gobeithio!,welsh,Hopefully!
+Anghywir!,welsh,Wrong!
+Bwyta!,welsh,Eat!
+Bwytwch!,welsh,Eat!
+Bwyd!,welsh,Food!
+Llongyfarchiadau!,welsh,Congrats!
+Amhosib!,welsh,Impossible!
+Yn debyg.,welsh,Probably.
+Cerdda!,welsh,Walk!
+Cerddwch!,welsh,Walk!
+Trist.,welsh,Sad.
+Trist!,welsh,Sad!
+Ble?,welsh,Where?
+Lle?,welsh,Where?
+Sut?,welsh,How?
+Pryd?,welsh,When?
+Yma?,welsh,Here?
+Eto!,welsh,Again!
+Felly?,welsh,Therefore?
+Heddwch.,welsh,Peace.
+Gwena!,welsh,Smile!
+Gwenwch!,welsh,Smile!
+Cysga!,welsh,Sleep!
+Cysgwch!,welsh,Sleep!
+Hwyrach.,welsh,Maybe.
+Efallai.,welsh,Maybe.
+Cywir!,welsh,Correct.
+Wel!,welsh,Well!
+Pryna!,welsh,Buy!
+Prynwch!,welsh,Buy!
+Gwertha!,welsh,Sell!
+Gwerthwch!,welsh,Sell!
+Gweithia.,welsh,Work.
+Gweithiwch.,welsh,Work.
+Gweithiwch!,welsh,Work!
+Gweithia!,welsh,Work!
+Cywir.,welsh,True.
+Dere.,welsh,Come.
+Tyrd.,welsh,Come.
+Dewch.,welsh,Come.
+Doniol!,welsh,Funny!
+Brecwast!,welsh,Breakfast!
+Rhy ddrud!,welsh,Too expensive!
+Bydd angladd Tom y penwythnos 'ma.,welsh,Tom's funeral will be this weekend.
+Rhaid i ni ei stopio.,welsh,We've got to stop her.
+Dydy o ddim yn ifanc ond yn hen.,welsh,He isn't young but old.
+Dyw e ddim yn ifanc ond yn hen.,welsh,He isn't young but old.
+Dan ni'n chwilio am drysor.,welsh,We're looking for treasure.
+Rydyn ni'n chwilio am drysor.,welsh,We're looking for treasure.
+Rydym mi'n chwilio am trysor.,welsh,We're looking for treasure.
+Mae Mennad ar gael.,welsh,Mennad is available.
+Dw i'n mynd am dro.,welsh,I'm going for a walk.
+Rydw i'n mynd am dro.,welsh,I'm going for a walk.
+Roedd o'n edrych trwy ficrosgop.,welsh,He was looking through a microscope.
+Roedd e'n edrych trwy ficrosgop.,welsh,He was looking through a microscope.
+Roedd yn edrych trwy ficrosgop.,welsh,He was looking through a microscope.
+Byddwn yn ei galw.,welsh,We'll call her.
+Galwn ni hi.,welsh,We'll call her.
+Byddwn ni'n ei galw.,welsh,We'll call her.
+Roedd yn anodd iawn canolbwyntio.,welsh,It was very hard to concentrate.
+Wyt ti eisiau gwydr o win?,welsh,Do you want another glass of wine?
+Beth fydd Tom yn meddwl?,welsh,What will Tom think?
+Dw i'n mynd i'r parc y prynhawn 'ma.,welsh,I am going to the park this afternoon.
+Rydw i'n mynd i'r parc y prynhawn 'ma.,welsh,I am going to the park this afternoon.
+Mae hi'n treulio llawer o amser ar y ffôn.,welsh,She spends a lot of time on the phone.
+Mae pawb yn ei hoffi.,welsh,Everyone likes her.
+Dylet ti wneud dy waith cartref nawr.,welsh,You should do your homework now.
+Dylet ti wneud dy waith cartref rŵan.,welsh,You should do your homework now.
+Dylech chi wneud dy waith cartref nawr.,welsh,You should do your homework now.
+Dylech chi wneud dy waith cartref rŵan.,welsh,You should do your homework now.
+Mae Sami yn siarad ag acen.,welsh,Sami talks with an accent.
+Prynodd fy mam sgert newydd i fi.,welsh,My mom bought me a new skirt.
+A i os ei di.,welsh,I'll go if you will.
+A i os ewch chi.,welsh,I'll go if you will.
+Beth mae Tom yn bwyta i frecwast?,welsh,What does Tom eat for breakfast?
+Gadawodd Tom yn gyflym.,welsh,Tom left quickly.
+Roedd marwolaeth Tom yn syndod.,welsh,Tom's death was a surprise.
+Pryd wyt ti'n mynd yn ôl i'r Eidal?,welsh,When are you going back to Italy?
+Pryd ydych chi'n mynd yn ôl i'r Eidal?,welsh,When are you going back to Italy?
+Pryd dach chi'n mynd yn ôl i'r Eidal?,welsh,When are you going back to Italy?
+Pryd dych chi'n mynd yn ôl i'r Eidal?,welsh,When are you going back to Italy?
+Dw i ddim yn meddwl fy mod wedi brifo Mary.,welsh,I don't think that I hurt Mary.
+Roedd drws Tom ar agor.,welsh,Tom's door was open.
+"Taset ti'n magu ci, pa gi baset ti'n magu?",welsh,"If you were to raise a dog, which dog would you raise?"
+Dw i'n mynd i gyngerdd wythnos nesa.,welsh,I am going to a concert next week.
+Cyrhaeddodd Tom rhy hwyr.,welsh,Tom arrived too late.
+Wyt ti'n mynd i barti Tom?,welsh,Are you going to Tom's party?
+Ydych chi'n mynd i barti Tom?,welsh,Are you going to Tom's party?
+Dych chi'n mynd i barti Tom?,welsh,Are you going to Tom's party?
+Dach chi'n mynd i barti Tom?,welsh,Are you going to Tom's party?
+Gwenasant nhw arno fo.,welsh,They smiled at him.
+Gwenasant nhw arno fe.,welsh,They smiled at him.
+Wyt ti'n mynd i brynu y car 'na.,welsh,Are you going to buy that car?
+Dw i newydd dweud wrthi hi.,welsh,I just told her.
+Mae Tom yn astudio nawr.,welsh,Tom is now studying.
+Mae Tom yn astudio rŵan.,welsh,Tom is now studying.
+Pryd gyrhaeddaist ti yno?,welsh,When did you arrive there?
+Pryd gyraeddasoch chi yno?,welsh,When did you arrive there?
+Tom ydy enw'r dyn.,welsh,The man's name is Tom.
+Mae Tom yn smwddio ei grysiau.,welsh,Tom is ironing his shirts.
+Sychodd hi ei hwyneb.,welsh,She dried her face and brushed her hair.
+Mae fy nant yn brifo.,welsh,My tooth hurts.
+Mae hi wedi colli ei hallwedd.,welsh,She's lost her car key.
+Mae hi wedi colli ei goriad.,welsh,She's lost her car key.
+Collodd hi ei hallwedd.,welsh,She's lost her car key.
+Collodd hi ei goriad.,welsh,She's lost her car key.
+Dylet ti wrando ar dy imâm.,welsh,You should listen to your imam.
+Dylech chi wrando ar eich imâm.,welsh,You should listen to your imam.
+Dw i'n byw ar yr un llawr â Tom a Mary.,welsh,I live on the same floor as Tom and Mary do.
+Rydw i'n byw ar yr un llawr â Tom a Mary.,welsh,I live on the same floor as Tom and Mary do.
+Galwodd Sami fi eto.,welsh,Sami called me again.
+Yerevan ydy prifddinas Armenia.,welsh,Yerevan is Armenia's capital.
+Maen nhw eisiau dod.,welsh,They want to come.
+Dydy fy enw ddim yn bwysig.,welsh,My name is not important.
+Honnodd Mary bod hi'n ddieuog.,welsh,Mary claimed she was innocent.
+Roedd Sami'n eistedd yn ei gar.,welsh,Sami was sitting in his car.
+Daeth hi adre a gwnaeth hi ei gwaith cartref.,welsh,She came home and did her homework.
+Dw i ddim yn meddwl fod Tom yn cysgu'n dal.,welsh,I don't think Tom is still asleep.
+Rydw i ddim yn meddwl fod Tom yn cysgu'n dal.,welsh,I don't think Tom is still asleep.
+Wyt ti eisiau mynd i'r gofod?,welsh,Do you want to go to space?
+Ydych chi eisiau mynd i'r gofod?,welsh,Do you want to go to space?
+Dych chi eisiau mynd i'r gofod?,welsh,Do you want to go to space?
+Dach chi eisiau mynd i'r gofod?,welsh,Do you want to go to space?
+Gwelaist ti ormod o ffilmiau.,welsh,You’ve seen too many movies.
+Gwelsoch chi ormod o ffilmiau.,welsh,You’ve seen too many movies.
+Dyw Tom na Mary ddim wedi addo dod.,welsh,Neither Tom nor Mary has promised to come.
+Gadawodd Sami yr ystafell ddosbarth.,welsh,Sami left the classroom.
+Mae Tom a Mary yn mynd i'm helpu fi.,welsh,Tom and Mary are going to help me.
+"Dywedodd Mary ei bod hi'n meddwl bod angen i Tom gael £300 o leiaf, er mwyn prynu popeth mae angen.",welsh,Mary said she thought Tom would need at least $300 to buy everything he needed.
+Dywedodd hi baset ti'n gwneud hynny iddi.,welsh,She said you'd do that for her.
+Dywedodd Mary ei bod hi'n barod i'n helpu ni.,welsh,Mary says she's willing to help us.
+Ysgrifennodd Tom draethawd yn Ffrangeg.,welsh,Tom wrote an essay in French.
+"Mae'n ddiymhongar, onid yw e?",welsh,"He's unassuming, isn't he?"
+Dywedodd Mary oedd hi'n gwybod baswn i'n dod.,welsh,Mary said she knew that I'd come.
+Doeddwn i ddim yn ystyried teimladau Tom o gwbl.,welsh,I didn't consider Tom's feelings at all.
+Mae Islam wedi'm gwaredu fi.,welsh,Islam has liberated me.
+"Mae Mary bron wedi cwpla, onid yw hi?",welsh,"Mary is almost done, isn't she?"
+Gobeithiodd y bydd yn clywed ohoni.,welsh,He hoped he might hear from her.
+Mae Mary wedi mynd â'i phlant i Awstralia.,welsh,Mary took her children to Australia.
+Mae Mary yn gwybod y bydd Tom yn gwneud hynny yn y diwedd.,welsh,Mary says she knows Tom will eventually do that.
+Mae Layla yn edrych fel ei chwaer hi.,welsh,Layla looks like her little sister.
+Sylweddolodd Mary 'does dim ffordd ei bod hi'n gallu gwneud hynny.,welsh,Mary realized there was no way she could do that.
+Cododd Mary o'i chadair hi.,welsh,Mary rose from her chair.
+Roedd Sami yn gwisgo crys glas.,welsh,Sami was wearing a blue shirt.
+Rydw i'n moyn eistedd ar fy mhen fy hun.,welsh,I want to sit by myself.
+Dyw Sami ddim yn meddwl bod Layla yn perfformio'n dda.,welsh,Sami doesn't think Layla is performing well.
+Dywedodd Tom a Mary wrthaf eu bod nhw'n hoffi mynd i gynherddau.,welsh,Tom and Mary told me they liked going to concerts.
+Roedd fel y fagddu.,welsh,It was completely pitch black.
+Doedd hi byth yn edrych arnof.,welsh,She never looked at him.
+Oedd Sami yn hoffi bod yn wahanol.,welsh,Sami liked being different.
+Mae'r ystafell bron yn wag.,welsh,The room is almost empty.
+Roedd Tom yn arfer bod yn hyfforddwr ci proffesiynol.,welsh,Tom used to be a professional dog trainer.
+Mae Mary yn dweud ei bod hi heb wedi cysgu ers 24 awr.,welsh,Mary says she hasn't slept in 24 hours.
+Bwyton ni'r cinio mewn bwyty agos.,welsh,We ate dinner at a nearby restaurant.
+Dydw i ddim yn gwybod llawer.,welsh,I don't really know that much.
+"Mae'n llwglyd hefyd, onid yw hi?",welsh,"She's hungry, too, isn't she?"
+Mae hi wastad yn cario'i chamera gyda hi ym mhobman.,welsh,She always carries her camera with her.
+Mae'r nifer o bobl sydd wedi marw o Nipah yn eitha bach.,welsh,The number of people who have died from Nipah is relatively small.
+Mae'n rhaid i ni ganiatáu i Tom wneud hynny.,welsh,We need to allow Tom to do that.
+Wyt ti'n dal i fod yn benderfynol o wneud hynny?,welsh,Are you still determined to do that?
+Mae Sami wedi dweud wrthon ni am ei brofiadau.,welsh,Sami told us about his own experiences.
+Mae'n gwybod ei fod yn gallu dy drystio di.,welsh,He knows that he can trust you.
+Mae Tom a Mary yn gobeithio eu bod nhw'n gallu gwneud hynny.,welsh,Tom and Mary hope they can do that.
+Yn y dechreuad y creodd Duw y nefoedd a’r ddaear.,welsh,In the beginning God created the heaven and the earth.
+"A Duw a ddywedodd, Bydded goleuni, a goleuni a fu.",welsh,And God said: Let there be light. And there was light.
+"A Duw a welodd y goleuni, mai da oedd: a Duw a wahanodd rhwng y goleuni a’r tywyllwch.",welsh,And God saw the light that it was good; and he divided the light from the darkness.
+Athro dw i.,welsh,I am a teacher.
+Athrawes dw i.,welsh,I am a teacher.
+Mae Donald Trump yn gancr oddi ar ddynoliaeth,welsh,Donald Trump is a cancer upon humanity.
+Mae Donald Trump yn gancr oddi ar y ddaear hon.,welsh,Donald Trump is a cancer upon this earth.
+Arosan ni ar gyfer Tomas.,welsh,We'll wait for Tom.
+Pryd digwyddodd hyn?,welsh,When did it happen?
+Does dim triniaeth ar gyfer COVID-19,welsh,There is no treatment for COVID-19.
+"Stopiwch leidr, stopiwch leidr!",welsh,"Stop thief, stop thief!"
+Mae’r cawl yn rhy boeth.,welsh,The soup is too hot.
+Peidiwch!,welsh,Stop it!
+Paid!,welsh,Stop it!
+Stopiwch!,welsh,Stop it!
+Stopia!,welsh,Stop it!
+Mae Tomos yn fawddyn.,welsh,Tom is vile.
+Mae gynni hi ychydig lyfrau.,welsh,She has a few books.
+Dwi eisiau gweithio mewn Ysbyty.,welsh,I want to work in a hospital.
+Dwi’n bwyta reis bob dydd.,welsh,I eat rice every day.
+Oedd Tomas yn gwybod?,welsh,Did Tom know?
+Croesawyd ef â banllefau gan y bobl.,welsh,He was welcomed with loud shouting by the people.
+Beth yw'r afon wrth y mor?,welsh,What is the river compared with the sea?
+Mae'r llyfrgell mor bell â'r orsaf.,welsh,The library is as far as the station.
+Mae'r ferch yn dewach na'r bachgen.,welsh,The girl is fatter than the boy.
+Fi ydy'r gorau.,welsh,I am the best.
+Chi ydy'r tala.,welsh,You are the tallest one.
+Nhw ydy'r gwaetha.,welsh,They are the worst.
+Nhw oedd y gwaetha.,welsh,They were the worst.
+Wyt ti'n gwrando arna' i?,welsh,Are you listening to me?
+Maen nhw'n edrych arnon ni.,welsh,They're looking at us.
+Rydw i'n rhoi anrheg iddi hi.,welsh,I'm giving her a present.
+Wyt ti wedi gofyn iddyn nhw?,welsh,Have you asked them?
+Wyt ti wedi gweld llun ohoni hi?,welsh,Have you seen a picture of her?
+Maen nhw'n siarad amdanoch chi.,welsh,They're talking about you.
+Wyt ti'n poeni amdani hi?,welsh,Are you worried about her?
+Wyt ti'n mynd i ysgrifennu ati hi?,welsh,Are you going to write to her?
+Dw i wedi anfon llythyr atyn nhw.,welsh,I have sent a letter to them.
+Dych chi ddim yn gweithio'n galed.,welsh,You aren't working hard.
+Dydy'r plant ddim yn chwarae pêl droed yn y parc.,welsh,The children are not playing football in the park.
+Paid â chodi pais wedi pisio.,welsh,Don't cry over spilt milk.
+Dydi o ddim gwerth rhech defaid.,welsh,The game is not worth the candle.
+Roedd rhech Capel.,welsh,It was a silent fart.
+Roedd fel rhech mewn pot jam,welsh,It was as useless as a chocolate teapot.
+Mae Tom yn goc oen.,welsh,Tom's a dick.
+Roeddech chi'n gweithio'n galed.,welsh,You were working hard.
+Roedd hi'n siopa yn Llundain.,welsh,She was shopping in London.
+Roedd y llyfrau ar y bwrdd.,welsh,The books were on the table.
+Doedd y plant ddim yn y gwely.,welsh,The children weren't in bed.
+Roeddw i'n rhy hwyr.,welsh,I was too late.
+Oeddwn i'n rhy hwyr?,welsh,Was I too late?
+Roedd problem.,welsh,There was a problem.
+Roedd 'na broblem.,welsh,There was a problem.
+Doedd yr ateb ddim yn iawn.,welsh,The answer wasn't right.
+Doedd yr ateb ddim yn iawn.,welsh,The answer was not right.
+Mae o’n fel rhech mewn pot jam,welsh,It is as useless as a chocolate teapot.
+Dwi i wedi cachu.,welsh,I shat.
+Mae o wedi meddwi.,welsh,He is drunk.
+Fe welodd hi'r ffilm neithiwr.,welsh,She saw the film last night.
+Wisgais i ddim ffrog newydd ddoe.,welsh,I didn't wear a new dress yesterday.
+Mi aethon nhw i chwarae yn y parc ar ôl yr ysgol.,welsh,They went to play in the park after school.
+Mi es i i'r gwely'n gynnar neithiwr.,welsh,I went to bed early last night.
+Fe aeth y plant i'r ysgol ar y bws.,welsh,The children went to school on the bus.
+Fe ddest ti i'r gwaith gyda Tom y bore 'ma.,welsh,You came to work with Tom this morning.
+Bydd rhaid i ni brysur.,welsh,We'll have to hurry.
+Os gwelwch yn dda.,welsh,Please.
+Wyt ti wedi gweld y ffilm ‘Inception’?,welsh,"Have you seen the movie ""Inception""?"
+Mae’r dyn yn fawr.,welsh,The man is big.
+Rhaid i ni trio stopio hi.,welsh,We've got to try and stop her.
+Mae car newydd ganddi hi.,welsh,She has a new car.
+Diolch am agor y drws.,welsh,Thanks for opening the door.
+Allwn i ddim yn gwneud hynny eto.,welsh,I couldn't do that again.
+Mae problem gyda Tom.,welsh,Tom has got a problem.
+Gweithion nhw drwy'r nos.,welsh,They worked all night.
+Mae Tom yn anghywir fel arfer.,welsh,Tom is wrong as usual.
+Roedd e'n tecstio ei ffrind e.,welsh,He was texting his friend.
+Dw i ddim eisiau mynd yn ôl adre eto.,welsh,I don't want to go back home yet.
+Dyw Tom ddim yn hoffi cwrw neu win.,welsh,Tom doesn't like beer or wine.
+Mae Tom wedi ennill eto.,welsh,Tom has won again.
+"Mae hi'n gyfeillgar i bawb, ond yw hi?",welsh,"She's friendly to everyone, isn't she?"
+Roedd Sami a Layla yn chwerthin.,welsh,Sami and Layla were laughing.
+Dych chi’n deall y cwestiwn yma?,welsh,Do you understand this question?
+Mae’n rhy hwyr i fynd nawr.,welsh,It's too late to go now.
+Ti’n gwylio ffilm.,welsh,You're watching a film.
+Dylech chi dechrau dysgu Ffrangeg.,welsh,You should start learning French.
+Dwedodd e fod e’n gwneud ei waith cartef.,welsh,He said he'd do his homework.
+Roedd e’n bwrw eira.,welsh,It was snowing.
+Dyw Tom ddim yn gallu gweithio'r wythnos yma.,welsh,Tom is unable to work this week.
+Rhaid iddo fe gwneud e nawr.,welsh,He must do it now.
+Galla i'n siarad Saesneg yn barod.,welsh,I can already speak English.
+Beth yn nhw'n gwneud yma heno?,welsh,What are they doing here tonight?
+Mae hi'n hapus gyda'i swydd newydd.,welsh,She's happy with her new job.
+Ydy fory yn rhy fuan?,welsh,Is tomorrow too soon?
+Ga i defnyddio dy ffôn di?,welsh,Could I use your phone?
+Yn bendant!,welsh,Definitely!
+Gwych!,welsh,Brilliant!
+Anghredadwy!,welsh,Unbelievable!
+Yn wir?,welsh,Really?
+Shwmae.,welsh,Hi.
+Hwrê!,welsh,Hooray!
+Neidia!,welsh,Jump!
+Sori!,welsh,Sorry!
+Cyfrinair?,welsh,Password?
+Arhosa!,welsh,Wait!
+Ceisia!,welsh,Try!
+Dechreua!,welsh,Begin!
+Siarada!,welsh,Speak!
+Gwrandawa.,welsh,Listen.
+Atebwch!,welsh,Answer!
+Sgwenna!,welsh,Write!
+Gwena.,welsh,Smile.
+Yn anffodus!,welsh,Unfortunately!
+Arhoswch.,welsh,Wait.
+Mae'n flin 'da fi.,welsh,Sorry.
+Sori.,welsh,Sorry.
+Joiwch!,welsh,Enjoy!
+Mwynhewch.,welsh,Enjoy.
+Yn barod!,welsh,Ready!
+Yn union!,welsh,Exactly!
+Cwffia!,welsh,Fight!
+Canwch!,welsh,Sing!
+Eistedda!,welsh,Sit!
+Eisteddwch!,welsh,Sit!
+Dydy hi ddim yn rhy anodd i ddysgu Ffrangeg.,welsh,It isn't too hard to learn French.
+Gwraig tŷ dw i.,welsh,I'm a housewife.
+Dw i'n mynd i fod yn ewythr.,welsh,I am going to be an uncle.
+Mae pob un o'n myfyrwyr yn astudio Ffrangeg.,welsh,All of our students are studying French.
+Cewch wared ohono fe.,welsh,Get rid of him.
+Aeth Tom i'r gampfa.,welsh,Tom went to the gym.
+Dych chi'n hoffi bwyta caws?,welsh,Do you like to eat cheese?
+"Athrawes dych chi, Mary?",welsh,"Are you a teacher, Mary?"
+Dwi ddim yn hoffi gwisgo jîns newydd.,welsh,I don't like wearing new jeans.
+Dydy'r het ddim yn ffitio fi.,welsh,The hat does not fit me.
+Dydy'r het ddim yn ffitio fi.,welsh,The hat doesn't fit me.
+Oes gynni hi ardd?,welsh,Does she have a garden?
+Oes ganddyn nhw ardd?,welsh,Do they have a garden?
+Dyn ni'n garddio,welsh,We were gardening.
+Mae e'n dwlu gardio,welsh,He loves gardening.
+Dw i'n dwlu garddio,welsh,I love gardening.
+Dw i'n hoffi garddio,welsh,I like gardening.
+Mae hi'n dwlu garddio,welsh,She loves gardening.
+Mae Tom yn dwlu garddio,welsh,Tom loves gardening.
+Mae Tom yn mwynhau garddio,welsh,Tom enjoys gardening.
+Dw i'n mwynhau garddio,welsh,I enjoy gardening.
+Mae fy ngardd yn fach,welsh,My garden is small.
+Fach yw fy ngardd,welsh,My garden is small.
+Garddwr yw e,welsh,He's a gardener.
+Dw i'n dwlu dy ardd di,welsh,I love your garden.
+Dw i'n dwlu dy ardd,welsh,I love your garden.
+Dw i'n dwlu eich gardd chi,welsh,I love your garden.
+Dw i'n dwlu eich gardd,welsh,I love your garden.
+Y garddwr dw i,welsh,I'm the gardener.
+Garddwr yw Tom,welsh,Tom is a gardener.
+Garddwr dw i,welsh,I'm a gardener.
+Nid yn fy ngardd,welsh,Not in my garden.
+Wyt ti'n hoffi garddio?,welsh,Do you like gardening?
+Dych chi'n hoffi garddio?,welsh,Do you like gardening?
+Mae e'n hoffi gweithio yn yr ardd,welsh,He likes to work in the garden.
+Gwaith,welsh,Work.
+Dywedodd hi bod hi'n brysur iawn,welsh,She told me she was very busy.
+Dw i'n mynd i fod yn ewythr.,welsh,I'm going to be an uncle.
+Ond pam dwyt ti ddim eisiau mynd i Genefa?,welsh,But why don't you want to go to Geneva?
+Dych chi'n hoffi teledu?,welsh,Do you like television?
+Dw i'n hoffi cwrw.,welsh,I like beer.
+Dw i ddim yn bwyta cig.,welsh,I'm not eating meat.
+Dw i'n yfed gwin coch.,welsh,I'm drinking red wine.
+Dw i ddim yn hoffi moron chwaith.,welsh,I don't like carrots either.
+"Mae hi'n wlyb heddiw, ond bydd hi'n well yfory.",welsh,"It is wet today, but it will be better tomorrow."
+Mae hi'n braf ond yn niwlog.,welsh,"It's fine, but foggy."
+Ond dych chi ddim yn bwyta llysiau!,welsh,But you don't eat vegetables!
+Mae Tom yn mwynhau gwylio'r athletau ar y teledu.,welsh,Tom enjoys watching the athletics on the television.
+Wnest ti ddim gwylio'r gêm neithiwr.,welsh,You didn't watch the game last night.
+Gwnaethon ni wylio'r teledu nos Fawrth diwetha.,welsh,We watched television last Tuesday night.
+Dw i'n prynu tegan.,welsh,I am buying a toy.
+Wnaethoch chi degan gyda ffrind?,welsh,Did you make a toy with a friend?
+Wnest ti ginio ddoe?,welsh,Did you make lunch yesterday?
+Wnest ti'r gwaith?,welsh,Did you do the work?
+Ga i brynu tri oren?,welsh,May I buy three oranges?
+Dw i ddim eisiau prynu reis heddiw.,welsh,I don't want to buy rice today.
+Prynodd Tom wyau ond dim bacwn.,welsh,Tom bought eggs but no bacon.
+"Do, gwnes i frecwast blasus bore dydd Llun.",welsh,"Yes, I made a delicious breakfast Monday morning."
+"Wnes i ginio ddoe? Naddo, gwnest ti frecwast.",welsh,"Did I make dinner yesterday? No, you made breakfast."
+Wnaethoch chi frecwast heddiw? Do.,welsh,Did you make breakfast today? Yes.
+Dw i'n prynu orenau a afalau.,welsh,I am buying oranges and apples.
+Wyt ti'n smwddio?,welsh,Are you ironing?
+Dw i'n mwynhau llysiau.,welsh,I enjoy vegetables.
+Gwnest ti ginio blasus iawn nos Fercher.,welsh,You made a very tasty dinner on Wednesday night.
+Wyt ti'n hoffi bwyta swper?,welsh,Do you like to eat supper?
+Dyn ni'n hoffi menyn.,welsh,We like butter.
+Mae e'n dysgu Ffiseg.,welsh,He is teaching Physics.
+Dyn ni'n dysgu nofio.,welsh,We are learning to swim.
+Dest ti i'r arddangosfa yma ddoe.,welsh,You came to the exhibition here yesterday.
+Wyt ti'n hoffi cerdded yma?,welsh,Do you like walking here?
+Daethoch chi a Tom yma ddoe.,welsh,You brought Tom here yesterday.
+"Cyn i chi wneud cinio, gwna i lanhau'r bwrdd.",welsh,"Before you make dinner, I will clean the table."
+"Ar ôl i ti wneud brecwast, mi wna i'r llestri.",welsh,"After you make breakfast, I will do the dishes."
+Gwna i'r papuro ar ôl i ti wneud y peintio.,welsh,I will do the papering after you do the painting.
+Dw i'n mwynhau gwneud brecwast.,welsh,I enjoy making breakfast.
+Wyt ti'n rhifo teganau.,welsh,You are counting toys.
+Ydy rhif ffôn yr ysgol yn y ddesg?,welsh,Is the school's phone number in the desk?
+Mae rhif ffôn Tom yn y ddesg.,welsh,Tom's phone number is in the desk.
+Dyn ni'n hoffi gwisgo esgidiau newydd.,welsh,We like wearing new shoes.
+Wyt ti'n gwisgo crys newydd?,welsh,Are you wearing a new shirt?
+Dych chi'n gwisgo trowsus newydd.,welsh,You are wearing new trousers.
+Wyt ti'n gwisgo siwmper newydd.,welsh,You are wearing a new jumper.
+Dw i'n gwisgo menig da.,welsh,I'm wearing good gloves.
+Ydy e wedi gwisgo'r siwt newydd eto?,welsh,Has he worn the new suit yet?
+Wyt ti wedi gwisgo'r siwt?,welsh,Have you worn the suit?
+Dw i'n gwisgo crys.,welsh,I am wearing a shirt.
+Dw i'n gwisgo esgidiau da iawn.,welsh,I wear very good shoes.
+Dych chi'n hoffi blows Mary?,welsh,Do you like Mary's blouse?
+Cafodd y drydedd ferch anrheg Nadolig wych.,welsh,The third girl got an excellent Christmas present.
+Dydd Nadolig yw'r pumed ar hugain o Ragfyr.,welsh,Christmas Day is the twenty-fifth of December.
+Mae'r Nadolig ar y pumed ar hugain o Ragfyr.,welsh,Christmas is on the twenty-fifth of December.
+Ble mae'r parti Nadolig?,welsh,Where is the Christmas party?
+Roedd y parti Nadolig yn rhy swnllyd i fi.,welsh,The Christmas party was too noisy for me.
+Wyt ti'n edrych ymlaen at y Nadolig?,welsh,Are you looking forward to Christmas?
+Roedd y parti Nadolig yn wych.,welsh,The Christmas party was great.
+Chaethoch chi ddim anrheg.,welsh,You did not get a present.
+Gaethoch chi ffôn symudol fel anrheg ddoe?,welsh,Did you get a mobile phone as a present yesterday?
+Dw i'n edrych am anrheg Nadolig i fy wyres.,welsh,I am looking for a Christmas present for my granddaughter.
+Mae Tom yn hoffi'r anrheg.,welsh,Owen likes the present.
+Diolch am fy anrhegion!,welsh,Thank you for my presents!
+Dymunwn ni Nadolig Llawen i chi.,welsh,We wish you a Merry Christmas.
+Dymunwn ni benblwydd hapus i ti.,welsh,We wish you a happy birthday.
+Chwefror y nawfed ydy penblwydd Mary.,welsh,February the ninth is Mary's birthday.
+Medi'r seithfed yw penblwydd Tom.,welsh,September the seventh is Tom's birthday.
+Pryd mae eich penblwydd priodas?,welsh,When is your wedding anniversary?
+"Llongyfarchiadau. Yn ôl Tom, roedd yr arholiadau newydd yn anodd iawn.",welsh,"Congratulations. According to Tom, the new exams were very difficult."
+Dwedodd Mary ei bod hi'n hapus iawn gyda'r arholiadau.,welsh,Mary said that she was very happy with the exams.
+Llongyfarchiadau ar lwyddo yn yr arholiadau.,welsh,Congratulations on succeeding in the exams.
+Mwynhewch eich ymddeoliad!,welsh,Enjoy your retirement!
+Maen nhw'n dweud bod nhw wedi cael llond bol o'r rhyngrwyd erbyn hyn.,welsh,They say that they are fed up with the internet now.
+Mae'r rhyngrwyd yn ein pentref yn araf iawn.,welsh,The internet in our village is very slow.
+Ga i gysylltu â'r rhyngrwyd yma?,welsh,May I connect to the internet here?
+Roedd Megan yn meddwl bod ei rhieni'n codi cywilydd arni hi o flaen ei ffrindiau.,welsh,Megan thought that her parents were embarrassing her in front of her friends.
+Paid â chodi cywilydd arna i!,welsh,Don't embarrass me!
+Dylai'r rheolwr cyllid newydd fod wedi dechrau erbyn hyn.,welsh,The new finance manager should have started by now.
+Rheolwr cyllid y cwmni yw Mary.,welsh,The company finance manager is Mary.
+Mae'r tai newydd yn ddrud.,welsh,The new houses are expensive.
+Mae'r tai melyn yn rhad.,welsh,The yellow houses are cheap.
+"Mary ydy'r rheolwr cyffredinol newydd, yn ôl Tom.",welsh,"Mary is the new general manager, according to Tom."
+Ble bydd y cyfarfod cyffredinol eleni?,welsh,Where will the general meeting be this year?
+"Bydd y Cyfarfod Cyffredinol wythnos nesa, yn ôl gwefan y cwmn",welsh,"The General Meeting will be next week, according to the company's website."
+"Does dim elw mewn moron, yn ôl Tom.",welsh,"There is no profit in carrots, according to Tom."
+Mae'r cwmni newydd wedi gwneud elw bach eleni.,welsh,The new company has made a small profit this year.
+Ydy'r cyfrifydd wedi gwneud y cyfrifon?,welsh,Has the accountant done the accounts?
+Ble mae'r rheolwr adnoddau dynol?,welsh,Where is the human resources manager?
+Mae'r cwmni'n marchnata ei nwyddau yn Affrica.,welsh,The company markets its goods in Africa.
+Fydd y nwyddau'n cyrraedd mewn pryd?,welsh,Will the goods arrive in time?
+Dydy eu dyledion ddim dan reolaeth o gwbl.,welsh,Their debts are not under control at all.
+Mae gormod o ddyled gyda nhw ar hyn o bryd.,welsh,They have too much debt at the moment.
+"Does dim problem, mae popeth dan reolaeth.",welsh,"There's no problem, everything is under control."
+Dwedodd Tom basai fe'n hysbysebu ei gar yn y papur wythnos nesa.,welsh,Tom said that he would advertise his car in the paper next week.
+Mae Tom yn hysbysebu moron.,welsh,Tom advertises carrots.
+Mae Mary yn hysbysebu ceir.,welsh,Mary advertises cars.
+Does dim croeso i'r diafol yn nhŷ Tom.,welsh,There is no welcome for the devil in Tom's house.
+"Nac oes, does dim diafol!",welsh,"No, there is no devil!"
+Ble mae'r diafol?,welsh,Where is the devil?
+Roedd hi'n berson ysbrydol iawn yn y gorffennol.,welsh,She used to be a very spiritual person in the past.
+Oedd eich taid yn berson ysbrydol?,welsh,Was your grandfather a spiritual person?
+Mae Mary yn berson ysbrydol.,welsh,Mary is a spiritual person.
+Dych chi'n credu bod ysbrydolrwydd yn bwysig i ni?,welsh,Do you believe that spirituality is important to us?
+Oes digon o ysbrydolrwydd yn y byd?,welsh,Is there enough spirituality in the world?
+Dych chi'n meddwl bod enaid gyda ni?,welsh,Do you think that we have a soul?
+Wyt ti wedi colli dy enaid di?,welsh,Have you lost your soul?
+Mae Tom wedi colli ei enaid e.,welsh,Tom has lost his soul.
+Dwedodd hi fod awra goch gyda Mary.,welsh,She said that Mary had a red aura.
+Dw i ddim yn credu bod ysbryd yma o gwbl.,welsh,I do not believe that there is a ghost here at all.
+Oes ysbryd yma? Nac oes.,welsh,Is there a ghost here? No.
+"Tasai digon o amser gyda fi, baswn i'n myfyrio am hanner awr bob dydd.",welsh,"If I had enough time, I would meditate for half an hour every day."
+Maen nhw'n myfyrio gyda'i gilydd.,welsh,They meditate together.
+Mae Tom yn myfyrio.,welsh,Tom meditates.
+Oes ofergoelion yn Iwerddon?,welsh,Are there superstitions in Ireland?
+Hoffwn i wybod mwy am ofergoelion yn yr ardal.,welsh,I would like to know more about superstitions in the area.
+Ydyn nhw'n mwynhau darllen am hen ofergoelion?,welsh,Do they enjoy reading about old superstitions?
+Sut basech chi'n egluro goleuedigaeth iddyn nhw?,welsh,How would you explain enlightenment to them?
+Wyt ti'n credu mewn goleuedigaeth?,welsh,Do you believe in enlightenment?
+Dydyn nhw ddim yn licio arogldarth.,welsh,They do not like incense.
+Ydy Mary yn defnyddio arogldarth?,welsh,Does Mary use incense?
+Maen nhw'n hoffi defnyddio arogldarth.,welsh,They like using incense.
+Mae pensil Mary yn y swyddfa.,welsh,Mary's pencil is in the office.
+Mae Tom yn hoffi pensil Mary.,welsh,Tom likes Mary's pencil.
+Ga i fenthyg dy naddwr glas?,welsh,May I borrow your blue sharpener?
+Rhaid i mi fenthyg pren mesur gan yr athro.,welsh,I have to borrow a ruler from the teacher.
+Ga i fenthyg y pren mesur?,welsh,Can I borrow the ruler?
+Mae'r pren mesur wedi torri.,welsh,The ruler is broken.
+Dw i wedi torri rhywbeth.,welsh,I have broken something.
+Wyt ti wedi torri'r pensil?,welsh,Have you broken the pencil?
+Mae rwber yn eich cas pensiliau.,welsh,There is an eraser in your pencil case.
+Oes cas pensiliau ar y bwrdd?,welsh,Is there a pencil case on the table?
+Ydy hi wedi prynu cas pensiliau newydd?,welsh,Has she bought a new pencil case?
+Mae Mary angen cas pensiliau newydd.,welsh,Mary needs a new pencil case.
+Ble mae'r cwmpawd sbâr?,welsh,Where is the spare compass?
+Cwmpawd pwy ydy hwn?,welsh,Whose compass is this?
+Mae cwmpawd gyda Mary.,welsh,Mary has a compass.
+Mae cyfrifiannell gyda Tom.,welsh,Tom has a calculator.
+Pwy sy wedi colli rwber?,welsh,Who has lost an eraser?
+Oes digon o arian gyda'r banciau?,welsh,Do the banks have enough money?
+Mae'r dynion cyfoethog yn gweithio yn y banciau.,welsh,The rich men work in the banks.
+Mae llawer o arian gyda'r banciau.,welsh,The banks have a lot of money.
+Dydy Mary ddim yn hoffi talu trethi.,welsh,Mary doesn't like paying taxes.
+Rhaid i fi gael cyfrif cyfrifiadur newydd.,welsh,I have to get a new computer account.
+Bydd hi angen cyfrif newydd ar y system.,welsh,She will need a new account on the system.
+Dyn ni'n dysgu nofio.,welsh,We're learning to swim.
+Dw i wedi torri rhywbeth.,welsh,I've broken something.
+"Yn bod dim ond myfyriwr, dw i ddim yn fforddio i gael fy mhriodi.",welsh,"Being only a student, I can't afford to get married."
+Mae hi'n edrych bod Tom a Mary ddim yn mynd i briodi.,welsh,It looks like Tom and Mary aren't going to get married.
+Ro'n Yanni yn hela'n anghyfreithlon yn y goedwig 'na.,welsh,Yanni was illegally hunting in that forest.
+Dw i ddim yn yfed gwin gwyn.,welsh,I don't drink white wine.
+Mae fy llaw mewn dŵr poeth.,welsh,My hand is in hot water.
+Ychwanegaist siwgr i dy goffi.,welsh,You added sugar to your coffee.
+Dw i'n bwyta bara a selsig.,welsh,I am eating bread and sausages.
+Dyma yr fan lle Claddwyd Lewis Jones.,welsh,Here is the place where Lewis Jones is buried.
+Dyma yr fan lle Claddwyd Lewis Jones.,welsh,This is where Lewis Jones is buried.
+Dydy hi ddim yn rhy anodd i ddysgu Ffrangeg.,welsh,It's not too difficult to learn French.
+Dw i'n gwybod nad ydy Tom yn gwybod y gwnaeth Mari hynny.,welsh,I know Tom doesn't know Mary did that.
+Mae cefnogaeth yn bwysig iawn.,welsh,Support is very important.
+Dw i'n meddwl bod dim byd yn bwysicach na chyfeillgarwch.,welsh,I think nothing is more important than friendship.
+Dwyt ti ddim yn gwybod faint o arian sy' arnaf i.,welsh,You don't know how much money I owe.
+"Pe na bai cerddoriaeth, byddai'r byd yn lle diflas.",welsh,"If it weren't for music, the world would be a boring place."
+Oes rhaid i Tom aros ym Moston trwy'r wythnos?,welsh,Does Tom have to stay in Boston all week?
+Cafodd Yanni berthynas gyfrinachol efo Skura.,welsh,Yanni had a secret relationship with Skura.
+Paid ag anghofio hynny.,welsh,Don't forget that.
+Na anghofier hynny.,welsh,Don't forget that.
+Dyna ddywedodd fy mam wrtha' i.,welsh,That's what my mom told me.
+Saif ei fila ar y bryn.,welsh,Her villa sits on the hill.
+Dyma'r dyn eira mwyaf hyll 'dw i erioed wedi'i weld!,welsh,This is the ugliest snowman I've ever seen!
+Peintiodd ei feic yn las.,welsh,He painted his bicycle blue.
+Caniataodd Tom i Mair yrru'i gar.,welsh,Tom allowed Mary to drive his car.
+Wneith o ddim ateb.,welsh,He won't answer.
+Addawodd Tom i fynd i Awstralia gyda Mair.,welsh,Tom promised to go to Australia with Mary.
+Dw i o hyd yn clywed pethau da am Tom.,welsh,I keep hearing good things about Tom.
+"Rwyt ti'n gwybod sut i yrru, 'dwyt?",welsh,"You know how to drive, don't you?"
+Gofynnais iddynt arwyddo'r papurau.,welsh,I asked them to sign the papers.
+Dywedodd Tom nad oedd yn poeni am hynny.,welsh,Tom said he wasn't worried about that.
+"Hei, ti!",welsh,"Hey, you!"
+Dyletswydd ar bawb yw dilyn y gyfraith.,welsh,To obey the law is everyone's duty.
+Dw i ddim eisiau gwybod pam nad wyt ti'n fy hoffi.,welsh,I don't want to know why you don't like me.
+Sylweddolais ar bâr ffres o ôl-troed yn yr eira.,welsh,I noticed a new set of footprints in the snow.
+Do'n i methu gwneud dim ar y pryd.,welsh,I couldn't do anything at that time.
+Ddylai Tom ddim wedi cael ei anfon i'r carchar.,welsh,Tom should've been sent to prison.
+Ro'n i'n meddwl byddai'r coleg yn lle mwy diddorol.,welsh,I thought college would be a more interesting place.
+Newidiodd Sami ddim byd.,welsh,Sami didn't change anything.
+Mae Mair a Tom yn byw gyda'i gilydd.,welsh,Mary and Tom live together.
+Gallwch siarad Rwsieg a Tsieinëeg ill dwy.,welsh,You can speak both Russian and Chinese.
+Mae wyth morwr ar ddeugain ar y llong.,welsh,Forty-eight sailors are on the ship.
+"Byddai modd i ddyn na aeth i'r ysgol ddwyn o drên nwyddau, ond pe bai addysg brifysgol ganndo, byddai modd iddo ddwyn y rheilffordd i gyd.",welsh,"A man who has never gone to school may steal from a freight car, but if he has a university education, he may steal the whole railroad."
+Mae'n ddrwg gennyf os y'th frifais.,welsh,I'm sorry if I hurt you.
+"Wrth i ti yrru, dylet ganolbwyntio ar y ffordd.",welsh,"While you drive, you should focus on the road."
+"Roedd Tom yn hyderus, hefyd.",welsh,"Tom was confident, too."
+Rwyt ti'n gwybod nad ydw i'n dda iawn yn canu.,welsh,You know that I can't sing very well.
+Mae Tom yn well ar y piano na fi.,welsh,Tom is better at the piano than I am.
+Cafodd Tom ei anafu mewn damwain draffig.,welsh,Tom got hurt in a traffic accident.
+Dw i'n gweld bod gen ti dy gitâr efo ti. Wyt ti'n bwriadu chwarae rhywbeth i ni?,welsh,I see you have your guitar with you. Are you planning on playing something for us?
+Dywedodd Tom wrth y detectif heddlu nad oedd yn adnabod y dyn yn y llun.,welsh,Tom told the police detective that he didn't recognize the man in the photo.
+Mae'r bachgen yn dal i gysgu.,welsh,The boy is still sleeping.
+Mae'r arholiad yn anodd.,welsh,The exam is difficult.
+Mae'r arholiad yn rhwydd.,welsh,The exam is easy.
+Mae Tom yn eirafyrddiwr da iawn.,welsh,Tom is a really good snowboarder.
+Mae'r ddinas hon i'r gorllewin o Lundain.,welsh,This city is west of London.
+Dw i ddim yn hoffi bwyta tomatos.,welsh,I don't like eating tomatoes.
+Dw i'n hoffi albwmin.,welsh,I like egg whites.
+Dw i'n hoffi'r oriawr hon.,welsh,I like this watch.
+Wyt ti'n gweithio fel trydanwr?,welsh,Do you work as an electrician?
+Dw i'n yfed gwin poeth.,welsh,I am drinking hot wine.
+Ffrind Tom dw i.,welsh,I'm Tom's friend.
+Dw i'n hoffi dy gynffon.,welsh,I like your tail.
+Mae Mary yn dweud bod hi eisiau ennill.,welsh,Mary says she wants to win.
+Rhaid i chi orffen hyn erbyn 2:30.,welsh,You have to finish this by 2:30.
+Maen nhw'n byw yn Baghdad.,welsh,They live in Baghdad.
+Iaith Affricanaidd ydy Berber.,welsh,Berber is an African language.
+Gaeth bag Sami ei atafaelu gan yr heddlu.,welsh,Sami's bag was seized by police.
+Dw i'n coginio'n dda.,welsh,I cook well.
+Roedd Tom yn awyddus i weld Mary.,welsh,Tom was eager to see Mary.
+Wnaethon ni'r rhain ar ben ein hun.,welsh,We made these ourselves.
+Dydy o ddim yn cofio ei gyfrinair.,welsh,He doesn't remember his password.
+Wyt ti'n dal i astudio ar ôl cinio?,welsh,Do you still study after dinner?
+Mae Sami a Layla yn gorwedd draw fan 'na.,welsh,Sami and Layla are both lying over there.
+Clywodd Tom ei rieni yn dadlau.,welsh,Tom heard his parents arguing.
+Wnest ti dalu am y llyfr?,welsh,Did you pay for the book?
+Wnaeth o ddreifio adre i Algiers.,welsh,He drove back home to Algiers.
+Mae gen i alergedd i wyau.,welsh,She's allergic to eggs.
+Ti angen cwsg.,welsh,You need sleep.
+Oes rhaid i ti wneud hynny hefyd?,welsh,"Do you have to do that, too?"
+Dw i'n bwriadu symud i Boston.,welsh,I intend to move to Boston.
+Mae gan Tom a Mary fab.,welsh,Tom and Mary have a son.
+Bendigedig!,welsh,Wonderful!
+Yn union!,welsh,Precisely!
+Beth bynnag!,welsh,Whatever!
+Fe ddysgon ni'r ffyrnigrwydd oddi wrthoch chi.,welsh,We learned violence from you.
+Dw i ddim yn bwyta cig.,welsh,I don't eat meat.
+Mae tad Sami yn dod o'r Aifft.,welsh,Sami's dad is from Egypt.
+Dw i'n dy hoffi di.,welsh,I like you.
+Dych chi'n hoffi cerddoriaeth?,welsh,Do you like music?
+Wyt ti'n hoffi cerddoriaeth?,welsh,Do you like music?
+Rhaid i mi wneud fy ngwaith cartref i cyn amser te.,welsh,I've got to do my homework before teatime.
+Dych chi wedi cael ateb?,welsh,Have you had a reply?
+Wyt ti wedi cael ateb?,welsh,Have you had a reply?
+Dw i'n gwybod bod Tom yn anghwrtais.,welsh,I know Tom was rude.
+Nid yw Tom yn gwylio ffilmiau rhyfel.,welsh,Tom doesn't watch war movies.
+Dydy Tom ddim yn gwylio ffilmiau rhyfel.,welsh,Tom doesn't watch war movies.
+Mae hi'n ysgrifennu erthygl ar bapur newydd yr ysgol.,welsh,She's writing an article for the school newspaper.
+Dy gymydog di ydw i.,welsh,I'm your neighbour.
+Mae ein gwin ar ben.,welsh,We're out of wine.
+Mae fy nhad i'n athro Saesneg.,welsh,My father is an English language teacher.
+"Nawr, dw i'n byw yma.",welsh,Now I live here.
+Dw i'n caru'r glaw.,welsh,I love the rain.
+Mae Tom yn gallu siarad Ffrangeg.,welsh,Tom can speak French.
+Mae hi eisiau dŵr.,welsh,She wants water.
+Ceisiaf.,welsh,I'll try.
+Mae e bob amser yn hwyr.,welsh,He's always late.
+Does dim bysellfwrdd Twrceg gyda fi.,welsh,I don't have a Turkish keyboard.
+Beth sy'n digwydd yn y byd?,welsh,What's going on in the world?
+Mae hwn yn argyfwng.,welsh,This is an emergency.
+Pryna' i'r llyfr hwn.,welsh,I'll buy this book.
+Dydw i ddim eisiau prynu'r carped hwn.,welsh,I don't want to buy this carpet.
+Dydw i ddim yn hoffi pocer yn fawr.,welsh,I don't like poker very much.
+Ydy llenyddiaeth yn wahanol i farddoniaeth?,welsh,Is literature different from poetry?
+Wyt ti erioed wedi ymweld â gwlad dramor?,welsh,Have you ever visited a foreign country?
+Dych chi erioed wedi ymweld â gwlad dramor?,welsh,Have you ever visited a foreign country?
+Beth wyt ti eisiau astudio yn y brifysgol?,welsh,What do you want to study at college?
+Bydd y llyfr hwn yn trawsnewid eich bywyd.,welsh,This book will transform your life.
+Does dim rhaid i chi aros yn yr ysbyty.,welsh,You don't have to stay in the hospital.
+Mae Tom wedi gwneud awgrym da.,welsh,Tom made a good suggestion.
+Mae ganddi obsesiwn â llyfrau.,welsh,She's obsessed with books.
+Rhaid i fi fwyta.,welsh,I have to eat.
+Croeso!,welsh,Welcome!
+Croeso!,welsh,You're welcome!
+"Diolch. ""Croeso.""",welsh,"Thanks. ""You're welcome."""
+"Sut wyt ti, Tom?",welsh,"How are you, Tom?"
+Riga yw prifddinas Latfia.,welsh,Riga is the capital of Latvia.
+Croeso!,welsh,You are welcome!
+Bore da.,welsh,Good morning.
+Prynhawn da!,welsh,Good afternoon!
+Prynhawn da.,welsh,Good afternoon.
+Noswaith dda.,welsh,Good evening.
+Ydych chi'n siarad Cymraeg?,welsh,Do you speak Welsh?
+‘Dych chi’n siarad Cymraeg?,welsh,Do you speak Welsh?
+Ydych chi'n dysgu Cymraeg?,welsh,Are you learning Welsh?
+Pam ydych chi'n dysgu Cymraeg?,welsh,Why are you learning Welsh?
+Wyt ti’n dysgu Cymraeg?,welsh,Are you learning Welsh?
+Pam wyt ti'n dysgu Cymraeg?,welsh,Why are you learning Welsh?
+Dw i'n byw yn Lloegr.,welsh,I live in England.
+Mae Tom yn byw yn Lloegr.,welsh,Tom lives in England.
+Caerdydd yw prifddinas Cymru.,welsh,Cardiff is the capital of Wales.
+Dw i'n byw yng Nghaerdydd.,welsh,I live in Cardiff.
+Dw i'n byw yng Nghasnewydd.,welsh,I live in Newport.
+Hwyl am nawr.,welsh,Bye for now.
+Ble dych chi'n byw?,welsh,Where do you live?
+Ble wyt ti'n byw?,welsh,Where do you live?
+Ble mae e'n byw?,welsh,Where does he live?
+Ble mae hi'n byw?,welsh,Where does she live?
+Ble mae Tom yn byw?,welsh,Where does Tom live?
+Ble mae’r tŷ bach?,welsh,Where's the toilet?
+Ble mae’r tŷ bach?,welsh,Where is the toilet?
+Ble mae’r tŷ bach?,welsh,Where's the loo?
+Siaradwch yn arafach os gwelwch yn dda.,welsh,"Speak more slowly, please."
+"Iawn, diolch. A chithau?",welsh,"Good, thank you. And you?"
+"Iawn, diolch. A tithau?",welsh,"Good, thank you. And you?"
+Un o ble dych chi?,welsh,Where are you from?
+Un o ble wyt ti?,welsh,Where are you from?
+Rydw i'n wedi blino iawn.,welsh,I am very tired.
+Helô!,welsh,Hello!
+Helô.,welsh,Hello.
+Bwrw hen wragedd â ffyn.,welsh,It's raining cats and dogs.
+Pob lwc.,welsh,Good luck.
+Diolch yn fawr!,welsh,Thank you very much!
+Diolch yn fawr.,welsh,Thank you very much.
+Dim brys.,welsh,There's no rush.
+Dim brys.,welsh,There is no rush.
+Penblwydd Hapus!,welsh,Happy Birthday!
+Welai chi wedyn!,welsh,See you later!
+Welai di wedyn!,welsh,See you later!
+Welai di wedyn.,welsh,See you later.
+Welai chi wedyn.,welsh,See you later.
+Dw i ddim yn siarad Cymraeg.,welsh,I don't speak Welsh.
+Beth ydy dy enw di?,welsh,What's your name?
+Beth ydy'ch enw chi?,welsh,What's your name?
+Beth ydy dy enw di?,welsh,What is your name?
+Beth ydy'ch enw chi?,welsh,What is your name?
+Mwynhewch eich bwyd.,welsh,Bon appetit.
+Dw i ddim yn gwybod.,welsh,I don't know.
+Wn i ddim.,welsh,I don't know.
+Dw i'n deall.,welsh,I understand.
+Dw i'n deall!,welsh,I understand!
+Blwyddyn Newydd Dda!,welsh,Happy New Year!
+Blwyddyn newydd dda.,welsh,Happy new year.
+Hwyl!,welsh,Goodbye!
+"Wnewch chi ail adrodd yn fwy araf, os gwelwch yn dda?",welsh,Can you please repeat that slowly?
+"Wnei di ail adrodd yn fwy araf, os gwelwch yn dda?",welsh,Can you please repeat that slowly?
+Wnei di ail adrodd yn fwy araf plîs?,welsh,Can you please repeat that slowly?
+Dyw fy chwaer ddim yn gweithio ar hyn o bryd.,welsh,My sister isn't working at the moment.
+Beth fyddwch chi'n wneud penwythnos nesa?,welsh,What will you be doing next weekend?
+Dw i byth yn gyrru i siop y gornel.,welsh,I never drive to the corner shop.
+Dw i erioed wedi chwarae criced.,welsh,I have never played cricket.
+Faswn i byth yn dringo Mynydd Etna.,welsh,I would never climb Mount Etna.
+Dw i'n meddwl ei fod e'n gymhleth.,welsh,I think that it is complicated.
+Dw i'n meddwl bod y ffilm yn ddifyr.,welsh,I think that the film is entertaining.
+Mae S4C yn dweud bydd hi'n wlyb yfory.,welsh,S4C says it will be wet tomorrow.
+Efallai basech chi'n hoffi dod hefyd.,welsh,"Perhaps you would like to come, too."
+Dwi’n siarad dim ond tipyn bach o Cymraeg.,welsh,I only speak a little bit of Welsh.
+Dwi’n siarad dim ond tipyn bach o Saesneg.,welsh,I only speak a little bit of English.
+Dwi'n llyseuwr.,welsh,I'm vegetarian.
+Dwi'n llyseuwraig.,welsh,I'm vegetarian.
+Dwi'n llyseuwr.,welsh,I am vegetarian.
+Dwi'n llyseuwr.,welsh,I am a vegetarian.
+Dwi'n llyseuwr.,welsh,I'm a vegetarian.
+Dwi'n llyseuwraig.,welsh,I am vegetarian.
+Dwi'n llyseuwraig.,welsh,I am a vegetarian.
+Dwi'n llyseuwraig.,welsh,I'm a vegetarian.
+Mwynhewch eich bwyd.,welsh,Enjoy your food.
+Mae hi'n un o'r gloch.,welsh,It's one o'clock.
+Mae hi'n dri o'r gloch.,welsh,It's three o'clock.
+Ble mae'r ffordd allan?,welsh,Where is the exit?
+Ble mae'r ffordd allan?,welsh,Where's the exit?
+Beth ydy hwn?,welsh,What's this?
+Hoffwn i gael peint o Guinness.,welsh,I'd like to have a pint of Guinness.
+Ydych chi'n hoffi bwyd yr Eidal?,welsh,Do you like Italian food?
+Gweithiwr dw i.,welsh,I am a worker.
+Wyt ti'n hoffi siocled?,welsh,Do you like chocolate?
+Dw i'n darllen ei lyfrau e.,welsh,I'm reading his books.
+Dw i'n darllen ei llyfrau hi.,welsh,I'm reading her books.
+Dan ni ddim yn yfed llaeth.,welsh,We don't drink milk.
+Dan ni'n gwneud hyn bob dydd Llun.,welsh,We do this every Monday.
+Mae Tom yn ifanc eto.,welsh,Tom is still young.
+Ble maen nhw?,welsh,Where are they?
+Ble mae dy gadair di?,welsh,Where is your chair?
+Gwnaeth o brynu het.,welsh,He bought a hat.
+Pryni di'r llyfr heddiw.,welsh,You will buy the book today.
+Dydy Vera ddim yn gallu cysgu.,welsh,Vera can't sleep.
+Mi wnes i brynu llefrith yn yr archfarchnad heddiw.,welsh,I bought milk at the supermarket today.
+Mae'r llyfr hwn yn Saesneg.,welsh,This book is in English.
+Dw i'n aros i'r golau newid.,welsh,I'm waiting for the light to change.
+Dw i'n caru fy swydd.,welsh,I love my job.
+Mae gan yr actores enw hardd iawn.,welsh,The actress has a very beautiful name.
+Wyt ti'n mwynhau dy swydd?,welsh,Do you enjoy your job?
+Nid oes tân heb fwg.,welsh,There's no fire without smoke.
+Dwyt ti ddim yn gallu ennill arian heb weithio.,welsh,You can't earn money without working.
+Dw i'n hoffi ei gath o.,welsh,I like his cat.
+Dw i'n hoffi ei chath hi.,welsh,I like her cat.
+Mae astudio iaith dramor yn anodd.,welsh,Studying a foreign language is hard.
+"Diolch, Yukina.",welsh,"Thanks, Yukina."
+Ydych chi'n hoffi gyrru?,welsh,Do you like to drive?
+Wyt ti'n hoffi gyrru?,welsh,Do you like to drive?
+Dw i'n hoffi hwn.,welsh,I like this.
+Mae'r tywydd yn oer.,welsh,The weather is cold.
+Mae'r bachgen yn prynu ci.,welsh,The boy is buying a dog.
+Mae hi eisiau dawnsio.,welsh,She wants to dance.
+Mae gen i gi mawr.,welsh,I have a big dog.
+Dw i methu nofio.,welsh,I can't swim.
+Mae'r te yn rhy oer.,welsh,The tea is too cold.
+Pam wnest ti ysgrifennu'r llyfr hwn?,welsh,Why did you write this book?
+Pam wnaeth hi ysgrifennu'r llyfr hwn?,welsh,Why did she write this book?
+Meddyg yw ei fab.,welsh,His son is a doctor.
+Meddyg yw ei mab.,welsh,Her son is a doctor.
+Mae gynnon ni ddwy gath ddu.,welsh,We have two black cats.
+Pam nid oes gan Tom gariad?,welsh,Why doesn't Tom have a girlfriend?
+Efallai bod chi’n iawn.,welsh,You may be right.
+Efallai fod ti’n iawn.,welsh,You may be right.
+Does dim moddion yn erbyn twpdra.,welsh,There's no cure for stupidity.
+Mae hi'n rhy hwyr.,welsh,It's too late.
+Mae hi'n rhy hwyr.,welsh,It is too late.
+Dw i ar goll.,welsh,I'm lost.
+Ble mae'r ysbyty?,welsh,Where is the hospital?
+Ble mae'r ysbyty?,welsh,Where's the hospital?
+Ble mae'r menyn?,welsh,Where is the butter?
+Dw i'n hoffi plant.,welsh,I like kids.
+Dw i'n hoffi gweithio.,welsh,I like working.
+Mae hi'n heulog.,welsh,It's sunny.
+Dyweda rhywbeth!,welsh,Say something!
+Mae'n rhaid i mi redeg.,welsh,I have to run.
+Mae'n rhaid i mi redeg.,welsh,I've got to run.
+Mae'n rhaid i mi redeg.,welsh,I must run.
+Mae'n well gen i Saesneg.,welsh,I prefer English.
+Dw i'n hoffi gwrando ar gerddoriaeth glasurol.,welsh,I like to listen to classical music.
+Dydyn nhw ddim yn dod.,welsh,They are not coming.
+Dydyn nhw ddim yn dod.,welsh,They're not coming.
+Dw i jyst ddim yn dy hoffi di.,welsh,I just don't like you.
+Ai dyma’r ffordd iawn i’r amgueddfa?,welsh,Is this the right way to the museum?
+Cath ydy honno?,welsh,Is that a cat?
+Mae Tom a fi wedi bod yn ffrindiau am flynyddoedd.,welsh,Tom and I have been friends for years.
+Arhoswch gyda ni.,welsh,Stay with us.
+Eto?,welsh,Again?
+Mae'n wyth o'r gloch.,welsh,It's eight o'clock.
+Mae’n boeth.,welsh,It's hot.
+Ydych chi'n hoffi'r ddinas hon?,welsh,Do you like this city?
+Pryd dechreuwch chi?,welsh,When will you start?
+Pryd dechreuwch chi?,welsh,When will you begin?
+Wyt ti’n hoffi caws?,welsh,Do you like cheese?
+Ydych chi erioed wedi canu mewn Ffrangeg?,welsh,Have you ever sung in French?
+Dw i ddim yn gwybod beth wnaeth Tom gyda hi.,welsh,I don't know what Tom did with it.
+Mae o wastad yn bwyta wyau heb halen a phupur.,welsh,He always eats eggs without salt and pepper.
+Mae hi'n brydferth.,welsh,She is beautiful.
+Dydy hi ddim yn mynd i ddigwydd i Tom.,welsh,It's not going to happen to Tom.
+Dw i'n bwyta afalau'n aml.,welsh,I often eat apples.
+Mae gan Barbie wallt melyn a llygaid glas.,welsh,Barbie has blond hair and blue eyes.
+Mae hi eisiau bod yn arwres.,welsh,She wants to be a heroine.
+Des i allan o'r tacsi.,welsh,I got out of the taxi.
+Ga' i fynd adref?,welsh,May I go home?
+Dydw i ddim eisiau brechdanau.,welsh,I don't want any sandwiches.
+Beth wyt ti'n 'neud heddiw?,welsh,What are you doing today?
+Pwy sy' bia'r bwyd yma?,welsh,Whose food is this?
+Ble mae'r safle bws?,welsh,Where is the bus stop?
+Nid yw fy nghydwybod yn lân.,welsh,My conscience is not clean.
+Es i i Lundain.,welsh,I went to London.
+Aethon ni i Lundain.,welsh,We went to London.
+Lle rhoddaist dy agoriad?,welsh,Where did you put your key?
+Beth newidiodd ei meddwl?,welsh,What changed her mind?
+Rhaid i ni stopio.,welsh,We have to stop.
+Mae morfilod yn famaliaid.,welsh,Whales are mammals.
+Dwi ddim yn gwybod.,welsh,I don't know.
+Roedd gen' i gath.,welsh,I had a cat.
+Mae Tom yn astudio.,welsh,Tom is studying.
+Ble mae'i dŷ?,welsh,Where is his house?
+'Rwyf tu ôl iddo.,welsh,I'm behind him.
+Nid oes cwrw yma.,welsh,There's no beer here.
+Ble mae'i thŷ?,welsh,Where is her house?
+Ai ti brynith y bwyd?,welsh,Is it you who'll buy the food?
+Beth wyt ti'n wneud?,welsh,What are you doing?
+Mae ganddyn nhw ddwy ferch.,welsh,They have two daughters.
+A siaredir Saesneg yng Nghanada?,welsh,Is English spoken in Canada?
+Dw i'n dechrau yfory.,welsh,I begin tomorrow.
+Mae Tom yn fy mhrofi i.,welsh,Tom is testing me.
+Mae fy ngŵr yn ddyn da.,welsh,My husband is a good man.
+Does gen' i ddim tocyn eto.,welsh,I don't have a ticket yet.
+Mae Brwsel yn brifddinas Gwlad Belg.,welsh,Brussels is the capital of Belgium.
+Mae o'n gwneud rhywbeth yno.,welsh,He's doing something there.
+Mae o'n gwneud rhywbeth yno.,welsh,He does something there.
+Ydw i'n ffrind i ti?,welsh,Am I your friend?
+Mae enw’r ferch yn f’atgoffa o’m dyddiau hapus yn yr ysgol.,welsh,The girl's name reminds me of my happy school days.
+Dw i'n dod o Dwrci.,welsh,I'm from Turkey.
+Mae dwy gath gen' i.,welsh,I have two cats.
+Heddiw ddaethon nhw?,welsh,Did they come today?
+Cer i helpu dy fam.,welsh,Go help your mother.
+Dw i wedi bod i'r UDA ddwywaith.,welsh,I have been to the U.S. twice.
+Cadwch nhw.,welsh,Keep them.
+Doedd Tom ddim yn gwybod bod bleiddiau yn yr ardal.,welsh,Tom didn't know that there were wolves in the area.
+Penderfynom beidio â gwneud hynny.,welsh,We decided not to do that.
+Mae Tom yn gyfrifol am y ddamwain hon.,welsh,Tom is responsible for this accident.
+Hoffwn wybod beth yw hi.,welsh,I'd like to know what it is.
+Cawsom wared o'r llygod yn ei dŷ.,welsh,We got rid of the mice in his house.
+Mae gennym ddigon o ddŵr.,welsh,We have enough water.
+Pa mor flinedig wyt ti?,welsh,How tired are you?
+'Roedd hi'n goch fel tomato.,welsh,She was red like a tomato.
+Mae Tom yn gwybod lle ydw i.,welsh,Tom knows where I am.
+Dw i'n eitha' styfnig.,welsh,I'm pretty stubborn.
+Dw i'n eitha' styfnig.,welsh,I'm quite stubborn.
+Bydd yn digwydd yn fuan.,welsh,It'll happen soon.
+"Naddo, dydy o ddim wedi dweud dim amdano.",welsh,"No, he hasn't said anything about it."
+Byddant yn goroesi.,welsh,They will survive.
+O le 'dych chi'n dod?,welsh,Where are you from?
+Mae gan Tom ddwylo mawrion.,welsh,Tom has large hands.
+Neb ond Tom wnaeth hynny.,welsh,No one but Tom did that.
+Gyda phwy wyt ti'n chwarae tenis?,welsh,Who do you play tennis with?
+Dydw i ddim yn dwpsyn!,welsh,I'm not an idiot!
+Dw i’n dysgu Cymraeg.,welsh,I'm learning Welsh.
+Mae hi'n edrych arnom.,welsh,She's looking at us.
+Dydw i ddim yn cysgu.,welsh,I'm not sleeping.
+Faint ydy dy oed di?,welsh,How old are you?
+Dwi’n byw ym Melffast.,welsh,I live in Belfast.
+Dyma fy nghyfrifiadur.,welsh,This is my computer.
+Dwi’n hapus.,welsh,I'm happy.
+Mae'n rhaid i mi brynu blodau i'm cariad.,welsh,I have to buy flowers for my girlfriend.
+Prynais gar yn Neri ddoe.,welsh,I bought a car in Derry yesterday.
+Dydi hi ddim yn dda i orfwyta.,welsh,It isn't good to overeat.
+Ac 'nawr?,welsh,And now?
+"Gan fod yn bwrw glaw, arhosais adref.",welsh,"Since it was raining, I stayed home."
+Mae’r dŵr yn lân.,welsh,The water is clean.
+Mae’r dŵr yn lân.,welsh,The water's clean.
+Mae o’n byw yn Lloegr.,welsh,He lives in England.
+Am ferch ddel!,welsh,What a pretty girl!
+Dw i’n gyrru.,welsh,I'm driving.
+Dydyn nhw ddim yn siŵr eu bod nhw'n barod.,welsh,They aren't sure they're ready.
+Dydyn nhw ddim yn siŵr eu bod nhw'n barod.,welsh,They're not sure they're ready.
+Dydyn nhw ddim yn siŵr eu bod nhw'n barod.,welsh,They're not sure that they're ready.
+Mae dyn wrth y drws sy' eisiau siarad efo ti.,welsh,There's a man at the door who wants to talk to you.
+Mae dyn wrth y drws sy' eisiau siarad efo ti.,welsh,There's a man at the door who wants to speak with you.
+Dydy hi ddim yn rhy anodd i ddysgu Ffrangeg.,welsh,It isn't too difficult to learn French.
+Bydd o'n ysgrifennu llythyr.,welsh,He will be writing a letter.
+Hoffwn i fyw yn Efrog Newydd.,welsh,I'd like to live in New York.
+Gwelaf dy gath yn yr ardd.,welsh,I see your cat in the garden.
+Dw i ddim yn siŵr bod Tom yn hoffi hynny.,welsh,I'm not sure that Tom likes that.
+"Ni ddywedaist ddim wrth Tom, naddo?",welsh,"You didn't tell Tom anything, did you?"
+Pam wyt ti eisiau gadael?,welsh,Why do you want to leave?
+Mae dy chwaer di'n cysgu.,welsh,Your sister's sleeping.
+Mae Tom yn cefnogi Abertawe.,welsh,Tom supports Swansea.
+Tom yn cefnogi Abertawe.,welsh,Tom supports Swansea.
+Roedd y cyrri’n flasus iawn.,welsh,"It was proper lush, that curry."
+Roedd y cyrri’n flasus dros ben.,welsh,"It was proper lush, that curry."
+"Ar 24 Awst, mae Wcráin yn dathlu ei hannibyniaeth.",welsh,"On August 24, Ukraine celebrates its independence."

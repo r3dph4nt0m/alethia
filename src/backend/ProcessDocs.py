@@ -14,31 +14,24 @@ class SaveStructuredDialogue:
             df.to_csv(self.save_file, index=False)
         print(f"Saved {len(df)} dialogue pairs to {self.save_file}")
 
-class StructureMaoriDoc(SaveStructuredDialogue):
+class StructureKhasiDoc(SaveStructuredDialogue):
     def __init__(self, filepath):
         self.filepath = filepath
-        with open(filepath, 'r', encoding='utf-8') as file:
-            self.content = file.readlines()
+        self.content = pd.read_csv(filepath, sep="\t", encoding='utf-8')
 
-        self.structured_maori = {
+        self.structured_khasi = {
             "dialogue": [],
             "classification": [],
             "translation": []
         }
-        self.save_file = "data/structured_maori.csv"
-        super().__init__(self.structured_maori, self.save_file)
+        self.save_file = "data/structured_khasi.csv"
+        super().__init__(self.structured_khasi, self.save_file)
 
-    def structure_maori(self):
-        for line in self.content:
-            if line.startswith(" ") or "Dialogue" in line:
-                continue
-            else:
-                if line.startswith("T.") or line.startswith("P."):
-                    filtered_line = line[2:].strip()
-                    split_dialogue = filtered_line.split("  ")
-                    self.structured_maori["dialogue"].append(split_dialogue[0].strip())
-                    self.structured_maori["classification"].append("maori")
-                    self.structured_maori["translation"].append(split_dialogue[len(split_dialogue) - 1].strip())
+    def structure_khasi(self):
+        for index, row in self.content.iterrows():
+            self.structured_khasi["dialogue"].append(row['Text'])
+            self.structured_khasi["classification"].append("khasi")
+            self.structured_khasi["translation"].append(row["Translation"])
 
 class StructureWelshDoc(SaveStructuredDialogue):
     def __init__(self, filepath):
@@ -79,16 +72,16 @@ class StructureAinuDoc(SaveStructuredDialogue):
             self.structured_ainu["classification"].append("ainu")
             self.structured_ainu["translation"].append(item["translation"])
             count += 1
-            if count >= 300:
+            if count > 2000:
                 break
 
 
 
 
 if __name__ == "__main__":
-    maori_filepath = "data/docs_maori.txt"
-    maori_doc = StructureMaoriDoc(maori_filepath)
-    maori_doc.structure_maori()
+    khasi_filepath = "data/docs_khasi.tsv"
+    khasi_doc = StructureKhasiDoc(khasi_filepath)
+    khasi_doc.structure_khasi()
 
     welsh_filepath = "data/docs_welsh.tsv"
     welsh_doc = StructureWelshDoc(welsh_filepath)
@@ -98,6 +91,6 @@ if __name__ == "__main__":
     ainu_doc = StructureAinuDoc(ainu_filepath)
     ainu_doc.structure_ainu()
 
-    maori_doc.save()
+    khasi_doc.save()
     welsh_doc.save()
     ainu_doc.save()
