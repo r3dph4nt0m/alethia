@@ -5,6 +5,7 @@ from pydantic import BaseModel
 import os
 import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
+from src.backend.BackgroundsAgent import QueryForBackground, QueryForFlashcards
 
 class AIRequest(BaseModel):
     prompt: str
@@ -25,3 +26,20 @@ def generate_text(request: AIRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     return {"responses": responses}
+@app.ai_router.post("/info")
+def get_info(query: str):
+    try:
+        background_agent = QueryForBackground(query)
+        background_info = background_agent.get_background()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    return {"background_info": background_info}
+
+@app.ai_router.post("/flashcards")
+def get_flashcards(subject: str, num_cards: int):
+    try:
+        flashcard_agent = QueryForFlashcards(subject, num_cards)
+        flashcards = flashcard_agent.get_flashcards() #NOTE: This returns in JSON format
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    return {"flashcards": flashcards}
