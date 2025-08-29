@@ -17,10 +17,8 @@ logger = logging.getLogger(__name__)
 
 # Try different model paths based on your checkpoint structure
 possible_model_paths = [
-    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier",
-    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-21500",  # Latest checkpoint
-    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-21000",
-    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-4500",
+    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-49200", 
+    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-49000",
 ]
 
 model_path = None
@@ -108,9 +106,14 @@ def test_with_custom_prompts():
     logger.info("Testing with custom prompts...")
     
     test_prompts = [
-        "Dialogue: Kia ora",
-        "Dialogue: Mae'r car yn las",
-        "Dialogue: siknu =an ka somo"
+        "Dialogue: E-iperusuy yakun aep poronno an na e yan",
+        "Dialogue: Ka kmie bad u kpa jong ka ki bitar",
+        "Dialogue: Gwell hwyr na hwyrach",
+        "Dialogue: Sut mae'r tywydd heddiw?",
+        "Dialogue: A-kor wakka poro no an na.",
+        "Dialogue: Nga kwah ban leit sha tea.",
+        "Dialogue: Beth wyt ti'n hoffi wneud?",
+        "Dialogue: Ku-e rusuy aep poronno an na e yan."
     ]
     
     for i, prompt in enumerate(test_prompts):

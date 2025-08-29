@@ -10,7 +10,7 @@ class AIRequest(BaseModel):
     max_length: int = 512
     num_return_sequences: int = 1
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-    model = GPT2LMHeadModel.from_pretrained("model/language_classifier")
+    model = GPT2LMHeadModel.from_pretrained("model/language_classifier/checkpoint-49200")
 
     def process_request(self) -> list:
         inputs = self.tokenizer.encode(self.prompt, return_tensors="pt")
