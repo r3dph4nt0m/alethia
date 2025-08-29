@@ -1,0 +1,102 @@
+/* General styling */
+* {
+  box-sizing: border-box;
+  font-family: 'Cinzel', serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #1B1F28;
+  color: #F2E4E1;
+  padding: 50px 20px;
+}
+
+/* Page Title */
+.page-title {
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* Archive Container */
+.archive-container {
+  display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+/* Tabs (Right-hand side) */
+.tabs {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-width: 200px;
+}
+
+.tab-btn {
+  background-color: #2C2F36;
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  cursor: pointer;
+  text-align: left;
+  color: #F2E4E1;
+  font-size: 16px;
+  transition: background 0.3s;
+}
+
+.tab-btn:hover {
+  background-color: #3B3F48;
+}
+
+.tab-btn.active {
+  background-color: #F2E4E1;
+  color: #7B2F2F;
+}
+
+/* Tab Content */
+.tab-content {
+  flex: 1;
+  background-color: #2C2F36;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+}
+
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.active {
+  display: block;
+}
+
+.tab-panel h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.tab-panel p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+.return-btn {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 10px 18px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  background-color: #F2E4E1;
+  color: #7B2F2F;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+.return-btn:hover {
+  background-color: #E8D4D0;
+  transform: scale(1.05);
+}

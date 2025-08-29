@@ -1,0 +1,121 @@
+/* General styling */
+* {
+    box-sizing: border-box;
+    font-family: 'Cinzel', serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1B1F28;
+    padding: 100px 20px 40px 20px;
+}
+
+/* Page Title */
+.page-title {
+    font-size: 64px;
+    color: #F2E4E1;
+    margin-bottom: 50px;
+}
+
+/* Language Select */
+.language-select {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.language-select label {
+    color: #F2E4E1;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.language-select select {
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+}
+
+/* Flashcard */
+.flashcard-container {
+    perspective: 1000px;
+    margin-bottom: 30px;
+}
+
+.flashcard {
+    width: 400px;
+    height: 250px;
+    background-color: #555;
+    border-radius: 20px;
+    color: #F2E4E1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+}
+
+.flashcard.flipped {
+    transform: rotateY(180deg);
+}
+
+.flashcard .front,
+.flashcard .back {
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    backface-visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.flashcard .back {
+    transform: rotateY(180deg);
+    background-color: #7B5E57;
+}
+
+/* Navigation Buttons */
+.flashcard-controls button {
+    padding: 12px 20px;
+    margin: 0 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    background-color: #F2E4E1;
+    color: #7B2F2F;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.flashcard-controls button:hover {
+    background-color: #E8D4D0;
+    transform: scale(1.05);
+}
+.return-btn {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 10px 18px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  background-color: #F2E4E1;
+  color: #7B2F2F;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+.return-btn:hover {
+  background-color: #E8D4D0;
+  transform: scale(1.05);
+}
