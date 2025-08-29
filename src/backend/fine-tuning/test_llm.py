@@ -2,6 +2,7 @@ import torch
 import os
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import sys
+import proxy_bypass
 
 # Add the current directory to Python path
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -17,8 +18,8 @@ logger = logging.getLogger(__name__)
 # Try different model paths based on your checkpoint structure
 possible_model_paths = [
     "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier",
-    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-19200",  # Latest checkpoint
-    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-12500",
+    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-21500",  # Latest checkpoint
+    "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-21000",
     "/Users/jaceysimpson/Vscode/EndangeredCultures/model/language_classifier/checkpoint-4500",
 ]
 
@@ -38,6 +39,7 @@ if not model_path:
             logger.info(f"  - {item}")
     exit(1)
 
+proxy_bypass._configure_proxy_bypass()
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 tokenizer.pad_token = tokenizer.eos_token
 
@@ -108,10 +110,7 @@ def test_with_custom_prompts():
     test_prompts = [
         "Dialogue: Kia ora",
         "Dialogue: Mae'r car yn las",
-        "Dialogue: siknu =an ka somo",
-        "Classification:",
-        "Translation:",
-        "Dialogue: Hello \nClassification:",
+        "Dialogue: siknu =an ka somo"
     ]
     
     for i, prompt in enumerate(test_prompts):

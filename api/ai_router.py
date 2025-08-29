@@ -2,8 +2,6 @@ import app
 import pandas as pd
 from fastapi import HTTPException
 from pydantic import BaseModel
-import os
-import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 from src.backend.BackgroundsAgent import QueryForBackground, QueryForFlashcards
 
@@ -14,10 +12,13 @@ class AIRequest(BaseModel):
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
     model = GPT2LMHeadModel.from_pretrained("model/language_classifier")
 
-    def process_request(self):
+    def process_request(self) -> list:
         inputs = self.tokenizer.encode(self.prompt, return_tensors="pt")
-        outputs = self.model.generate(inputs, max_length=self.max_length, num_return_sequences=self.num_return_sequences)
-        return [self.tokenizer.decode(output, skip_special_tokens=True) for output in outputs]
+        output = self.model.generate(inputs, max_length=self.max_length, num_return_sequences=self.num_return_sequences)
+        text = self.tokenizer.decode(output, skip_special_tokens=True)
+        classification = text.split("Classification:")[-1].strip().split("\n")[0]
+        translation = text.split("Translation:")[-1].strip().split("\n")[0]
+        return [{"generated_text": text, "classification": classification, "translation": translation}]
     
 @app.ai_router.post("/generate")
 def generate_text(request: AIRequest):

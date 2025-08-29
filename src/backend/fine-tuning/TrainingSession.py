@@ -8,15 +8,15 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class LanguageDataset(Dataset):
-    def __init__(self, input_ids, attention_mask, labels):
+    def __init__(self, input_ids: torch.Tensor, attention_mask: torch.Tensor, labels: torch.Tensor):
         self.input_ids = input_ids
         self.attention_mask = attention_mask
         self.labels = labels
 
-    def __len__(self):
+    def __len__(self) -> int:
         return len(self.input_ids)
 
-    def __getitem__(self, idx):
+    def __getitem__(self, idx: int) -> dict:
         return {
             'input_ids': self.input_ids[idx],
             'attention_mask': self.attention_mask[idx],

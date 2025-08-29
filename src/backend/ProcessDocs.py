@@ -2,11 +2,11 @@ import pandas as pd
 import os
 
 class SaveStructuredDialogue:
-    def __init__(self, structured_data, save_file):
+    def __init__(self, structured_data: dict, save_file: str):
         self.structured_data = structured_data
         self.save_file = save_file
 
-    def save(self):
+    def save(self) -> None: #Save to data dirs
         df = pd.DataFrame(self.structured_data)
         if os.path.exists(self.save_file):
             df.to_csv(self.save_file, mode='a', header=False, index=False)
@@ -15,7 +15,7 @@ class SaveStructuredDialogue:
         print(f"Saved {len(df)} dialogue pairs to {self.save_file}")
 
 class StructureKhasiDoc(SaveStructuredDialogue):
-    def __init__(self, filepath):
+    def __init__(self, filepath: str):
         self.filepath = filepath
         self.content = pd.read_csv(filepath, sep="\t", encoding='utf-8')
 
@@ -34,7 +34,7 @@ class StructureKhasiDoc(SaveStructuredDialogue):
             self.structured_khasi["translation"].append(row["Translation"])
 
 class StructureWelshDoc(SaveStructuredDialogue):
-    def __init__(self, filepath):
+    def __init__(self, filepath: str):
         self.filepath = filepath
         self.content = pd.read_csv(filepath, sep='\t', encoding='utf-8')
 
@@ -53,7 +53,7 @@ class StructureWelshDoc(SaveStructuredDialogue):
             self.structured_welsh["translation"].append(row["Translation"])
 
 class StructureAinuDoc(SaveStructuredDialogue):
-    def __init__(self, filepath):
+    def __init__(self, filepath: str):
         self.filepath = filepath
         self.content = pd.read_json(filepath)
         self.save_file = "data/structured_ainu.csv"

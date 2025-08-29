@@ -16,7 +16,7 @@ class PrepareDataset:
         self.val_size = val_size
         self.max_length = max_length
         
-        # Configure requests to bypass proxy for huggingface.co
+        # Configure requests to bypass personal proxy for huggingface.co (for Jacey only)
         proxy_bypass._configure_proxy_bypass()
         
         self.tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
